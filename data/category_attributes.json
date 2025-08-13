@@ -1,0 +1,9505 @@
+[{
+  "_id": {
+    "$oid": "6837eb2e85d40cd675090b46"
+  },
+  "name": "stackoverflow attribute",
+  "tenant": {
+    "$oid": "68136d41b8c267a74ecb3213"
+  },
+  "category": {
+    "$oid": "6837ea0c85d40cd675090b3d"
+  },
+  "providerId": {
+    "$oid": "68136e31b8c267a74ecb32da"
+  },
+  "createdAt": {
+    "$date": "2025-05-29T05:05:50.739Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-29T05:05:50.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683d2bde8b31e6dd69d71321"
+  },
+  "name": "w3 school category attribute",
+  "tenant": {
+    "$oid": "681df14f70e40ddec4be2319"
+  },
+  "category": {
+    "$oid": "683d2bad8b31e6dd69d71310"
+  },
+  "providerId": {
+    "$oid": "681dfc2170e40ddec4be2c0e"
+  },
+  "createdAt": {
+    "$date": "2025-06-02T04:43:10.795Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-02T04:43:10.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683d56a219adb775bb86b49f"
+  },
+  "name": "geeks category attribute",
+  "tenant": {
+    "$oid": "681defdcbad26143190de7eb"
+  },
+  "category": {
+    "$oid": "683d568719adb775bb86b496"
+  },
+  "providerId": {
+    "$oid": "681df43570e40ddec4be26f9"
+  },
+  "createdAt": {
+    "$date": "2025-06-02T07:45:38.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-02T07:45:38.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684830c90b40cfae10cda2a8"
+  },
+  "name": "TOFU",
+  "tenant": {
+    "$oid": "6696821b5d1b461f36790061"
+  },
+  "category": {
+    "$oid": "6848307c0b40cfae10cda28d"
+  },
+  "providerId": {
+    "$oid": "681b26f4acf58cef18601535"
+  },
+  "createdAt": {
+    "$date": "2025-06-10T13:19:05.693Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:19:05.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684830d10b40cfae10cda2b1"
+  },
+  "name": "MOFU",
+  "tenant": {
+    "$oid": "6696821b5d1b461f36790061"
+  },
+  "category": {
+    "$oid": "6848307c0b40cfae10cda28d"
+  },
+  "providerId": {
+    "$oid": "681b26f4acf58cef18601535"
+  },
+  "createdAt": {
+    "$date": "2025-06-10T13:19:13.722Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:19:13.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684830da0b40cfae10cda2ba"
+  },
+  "name": "BOFU",
+  "tenant": {
+    "$oid": "6696821b5d1b461f36790061"
+  },
+  "category": {
+    "$oid": "6848307c0b40cfae10cda28d"
+  },
+  "providerId": {
+    "$oid": "681b26f4acf58cef18601535"
+  },
+  "createdAt": {
+    "$date": "2025-06-10T13:19:22.873Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:19:22.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686777d027516062c45a2db3"
+  },
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "category": {
+    "$oid": "6867767c27516062c45a2d90"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:42:24.892Z"
+  },
+  "name": "TOFU",
+  "updatedAt": {
+    "$date": "2025-07-04T06:45:08.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686777d127516062c45a2db4"
+  },
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "category": {
+    "$oid": "6867767c27516062c45a2d93"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:42:25.049Z"
+  },
+  "name": "General",
+  "updatedAt": {
+    "$date": "2025-07-04T06:44:42.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686777d127516062c45a2db5"
+  },
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "category": {
+    "$oid": "6867767c27516062c45a2d8f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:42:25.206Z"
+  },
+  "name": "Blog Page",
+  "updatedAt": {
+    "$date": "2025-07-04T06:45:09.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686777d127516062c45a2db6"
+  },
+  "category": {
+    "$oid": "6867767c27516062c45a2d91"
+  },
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:42:25.363Z"
+  },
+  "name": "Business Owners",
+  "updatedAt": {
+    "$date": "2025-07-04T06:45:09.197Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686777d127516062c45a2db7"
+  },
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "category": {
+    "$oid": "6867767c27516062c45a2d92"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:42:25.520Z"
+  },
+  "name": "Web Developers",
+  "updatedAt": {
+    "$date": "2025-07-04T06:45:09.353Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6867787427516062c45a2dc3"
+  },
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "category": {
+    "$oid": "6867767c27516062c45a2d93"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:45:08.884Z"
+  },
+  "name": "App Development",
+  "updatedAt": {
+    "$date": "2025-07-04T06:45:08.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2c25322ccc76493e2d76"
+  },
+  "category": {
+    "$oid": "686b6e7d27516062c45aa396"
+  },
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T08:45:25.729Z"
+  },
+  "name": "MOFU",
+  "updatedAt": {
+    "$date": "2025-07-09T08:46:32.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2c25322ccc76493e2d77"
+  },
+  "category": {
+    "$oid": "686b6e7d27516062c45aa399"
+  },
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T08:45:25.748Z"
+  },
+  "name": "Retail",
+  "updatedAt": {
+    "$date": "2025-07-09T08:46:32.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2c25322ccc76493e2d79"
+  },
+  "category": {
+    "$oid": "686b6e7d27516062c45aa395"
+  },
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T08:45:25.786Z"
+  },
+  "name": "Product Page",
+  "updatedAt": {
+    "$date": "2025-07-09T08:46:09.836Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2c25322ccc76493e2d7a"
+  },
+  "category": {
+    "$oid": "686b6e7d27516062c45aa397"
+  },
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T08:45:25.804Z"
+  },
+  "name": "Retail Marketing Teams",
+  "updatedAt": {
+    "$date": "2025-07-09T08:46:32.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2c2e322ccc76493e2d7d"
+  },
+  "category": {
+    "$oid": "686b6e7d27516062c45aa395"
+  },
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T08:45:34.118Z"
+  },
+  "name": "About Page",
+  "updatedAt": {
+    "$date": "2025-07-09T08:46:18.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2c34322ccc76493e2d80"
+  },
+  "category": {
+    "$oid": "686b6e7d27516062c45aa395"
+  },
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T08:45:40.872Z"
+  },
+  "name": "Legal Page",
+  "updatedAt": {
+    "$date": "2025-07-09T08:46:32.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2c4a322ccc76493e2d83"
+  },
+  "category": {
+    "$oid": "686b6e7d27516062c45aa395"
+  },
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T08:46:02.185Z"
+  },
+  "name": "Blog Page",
+  "updatedAt": {
+    "$date": "2025-07-09T08:46:02.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2c5a322ccc76493e2d86"
+  },
+  "category": {
+    "$oid": "686b6e7d27516062c45aa397"
+  },
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T08:46:18.373Z"
+  },
+  "name": "Job Seekers",
+  "updatedAt": {
+    "$date": "2025-07-09T08:46:18.373Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2c61322ccc76493e2d88"
+  },
+  "category": {
+    "$oid": "686b6e7d27516062c45aa395"
+  },
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T08:46:25.735Z"
+  },
+  "name": "Resource Hub",
+  "updatedAt": {
+    "$date": "2025-07-09T08:46:25.735Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cacda677f67a172c184b"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8f"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:15:57.235Z"
+  },
+  "name": "BOFU",
+  "updatedAt": {
+    "$date": "2025-07-14T09:49:28.328Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cacda677f67a172c184c"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d92"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:15:57.390Z"
+  },
+  "name": "Healthcare",
+  "updatedAt": {
+    "$date": "2025-07-14T09:51:28.823Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cacda677f67a172c184d"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:15:57.545Z"
+  },
+  "name": "Product Page",
+  "updatedAt": {
+    "$date": "2025-07-14T09:49:28.650Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cacda677f67a172c184e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d90"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:15:57.699Z"
+  },
+  "name": "Healthcare Marketers",
+  "updatedAt": {
+    "$date": "2025-07-14T09:51:29.145Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cacda677f67a172c184f"
+  },
+  "category": {
+    "$oid": "686e47326672145ddc776df7"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:15:57.853Z"
+  },
+  "name": "Privacy and Compliance",
+  "updatedAt": {
+    "$date": "2025-07-14T09:51:29.306Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cadea677f67a172c1852"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8f"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:16:14.635Z"
+  },
+  "name": "TOFU",
+  "updatedAt": {
+    "$date": "2025-07-14T09:46:59.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cadfa677f67a172c1853"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:16:14.952Z"
+  },
+  "name": "About Page",
+  "updatedAt": {
+    "$date": "2025-07-14T09:30:29.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cae8a677f67a172c1856"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d92"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:16:24.658Z"
+  },
+  "name": "General",
+  "updatedAt": {
+    "$date": "2025-07-14T09:49:28.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cae8a677f67a172c1857"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:16:24.813Z"
+  },
+  "name": "Resource Hub",
+  "updatedAt": {
+    "$date": "2025-07-14T09:32:21.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cae9a677f67a172c1858"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d90"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:16:24.967Z"
+  },
+  "name": "General Audience",
+  "updatedAt": {
+    "$date": "2025-07-14T09:46:25.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cafea677f67a172c185d"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:16:46.913Z"
+  },
+  "name": "Contact Page",
+  "updatedAt": {
+    "$date": "2025-07-14T09:30:43.761Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cb17a677f67a172c185f"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:17:11.584Z"
+  },
+  "name": "MOFU",
+  "updatedAt": {
+    "$date": "2025-07-14T09:51:28.662Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cb17a677f67a172c1860"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:17:11.893Z"
+  },
+  "name": "Customer Story",
+  "updatedAt": {
+    "$date": "2025-07-14T09:51:28.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cb35a677f67a172c1865"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d90"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:17:41.077Z"
+  },
+  "name": "Product and Growth Teams",
+  "updatedAt": {
+    "$date": "2025-07-14T09:49:28.811Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cb49a677f67a172c1866"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d91"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:18:01.636Z"
+  },
+  "name": "CISOs",
+  "updatedAt": {
+    "$date": "2025-07-14T09:26:54.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cb8fa677f67a172c1869"
+  },
+  "category": {
+    "$oid": "686e47326672145ddc776df7"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:19:11.297Z"
+  },
+  "name": "Data-Driven Decision Making",
+  "updatedAt": {
+    "$date": "2025-07-14T09:50:45.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cbe5a677f67a172c186c"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:20:37.220Z"
+  },
+  "name": "Feature Comparison",
+  "updatedAt": {
+    "$date": "2025-07-14T09:38:53.599Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cc53a677f67a172c1870"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:22:27.409Z"
+  },
+  "name": "Legal Page",
+  "updatedAt": {
+    "$date": "2025-07-14T09:31:12.491Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cc5ea677f67a172c1871"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d90"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:22:38.147Z"
+  },
+  "name": "Students",
+  "updatedAt": {
+    "$date": "2025-07-14T09:22:38.147Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ccb1a677f67a172c1872"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:24:01.035Z"
+  },
+  "name": "Webinar",
+  "updatedAt": {
+    "$date": "2025-07-14T09:31:19.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874cd11a677f67a172c1873"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d91"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:25:37.635Z"
+  },
+  "name": "Security & Compliance Teams",
+  "updatedAt": {
+    "$date": "2025-07-14T09:51:09.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ce3ca677f67a172c1877"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:30:36.825Z"
+  },
+  "name": "Partner Program Page",
+  "updatedAt": {
+    "$date": "2025-07-14T09:30:36.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ce71a677f67a172c187a"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:31:29.039Z"
+  },
+  "name": "Documentation",
+  "updatedAt": {
+    "$date": "2025-07-14T09:49:07.939Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874ceb0a677f67a172c187d"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:32:32.754Z"
+  },
+  "name": "Blog Post",
+  "updatedAt": {
+    "$date": "2025-07-14T09:47:00.290Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874d026a677f67a172c1885"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d91"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:38:46.749Z"
+  },
+  "name": "Product and Growth Teams",
+  "updatedAt": {
+    "$date": "2025-07-14T09:49:18.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874d06ba677f67a172c1889"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d92"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:39:55.609Z"
+  },
+  "name": "Real Estate Technology",
+  "updatedAt": {
+    "$date": "2025-07-14T09:39:55.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874d13aa677f67a172c188c"
+  },
+  "category": {
+    "$oid": "686e47326672145ddc776df7"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:43:22.251Z"
+  },
+  "name": "Product Success Measurement",
+  "updatedAt": {
+    "$date": "2025-07-14T09:49:28.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874d160a677f67a172c188d"
+  },
+  "category": {
+    "$oid": "686e47326672145ddc776df7"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:44:00.412Z"
+  },
+  "name": "Growth & Startups",
+  "updatedAt": {
+    "$date": "2025-07-14T09:47:00.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6874d294a677f67a172c1891"
+  },
+  "category": {
+    "$oid": "686e2ff6322ccc76493e2d91"
+  },
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-14T09:49:08.261Z"
+  },
+  "name": "Healthcare Marketers",
+  "updatedAt": {
+    "$date": "2025-07-14T09:49:08.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3c2a677f67a172c63ad"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a7"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:22:58.800Z"
+  },
+  "name": "MOFU",
+  "updatedAt": {
+    "$date": "2025-07-15T11:23:00.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3c3a677f67a172c63ae"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63aa"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:22:58.952Z"
+  },
+  "name": "Financial Services",
+  "updatedAt": {
+    "$date": "2025-07-15T11:29:38.924Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3c3a677f67a172c63af"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:22:59.105Z"
+  },
+  "name": "Product Page",
+  "updatedAt": {
+    "$date": "2025-07-15T11:29:47.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3c3a677f67a172c63b0"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a8"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:22:59.257Z"
+  },
+  "name": "Individual Investors",
+  "updatedAt": {
+    "$date": "2025-07-15T11:29:47.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3c3a677f67a172c63b1"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a9"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:22:59.410Z"
+  },
+  "name": "Financial Advisors",
+  "updatedAt": {
+    "$date": "2025-07-15T11:21:31.423Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3d0a677f67a172c63b4"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a6"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:23:12.402Z"
+  },
+  "name": "Legal Page",
+  "updatedAt": {
+    "$date": "2025-07-15T06:32:10.794Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f428a677f67a172c63b9"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a6"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:24:40.453Z"
+  },
+  "name": "Promotional Page",
+  "updatedAt": {
+    "$date": "2025-07-15T11:25:23.338Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f446a677f67a172c63bd"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a6"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:25:10.095Z"
+  },
+  "name": "Resource Hub",
+  "updatedAt": {
+    "$date": "2025-07-15T08:37:04.246Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f4f1a677f67a172c63c1"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a8"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:28:01.159Z"
+  },
+  "name": "Live Nation Employees",
+  "updatedAt": {
+    "$date": "2025-07-15T06:28:01.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f63ba677f67a172c63c9"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a9"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:33:31.810Z"
+  },
+  "name": "Businesses",
+  "updatedAt": {
+    "$date": "2025-07-15T08:44:44.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f67aa677f67a172c63cd"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a6"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:34:34.603Z"
+  },
+  "name": "Careers Page",
+  "updatedAt": {
+    "$date": "2025-07-15T06:34:34.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f67aa677f67a172c63ce"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a8"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:34:34.758Z"
+  },
+  "name": "Job Seekers",
+  "updatedAt": {
+    "$date": "2025-07-15T06:34:34.758Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f686a677f67a172c63cf"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a7"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:34:46.532Z"
+  },
+  "name": "TOFU",
+  "updatedAt": {
+    "$date": "2025-07-15T08:46:49.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875fbdea677f67a172c63d9"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a9"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:57:34.910Z"
+  },
+  "name": "Collectors",
+  "updatedAt": {
+    "$date": "2025-07-15T08:22:16.499Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875fbf5a677f67a172c63da"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63aa"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:57:57.577Z"
+  },
+  "name": "Fashion",
+  "updatedAt": {
+    "$date": "2025-07-15T08:23:21.513Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875fc02a677f67a172c63db"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63aa"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:58:10.515Z"
+  },
+  "name": "General",
+  "updatedAt": {
+    "$date": "2025-07-15T11:28:43.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875fc02a677f67a172c63dc"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a8"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:58:10.829Z"
+  },
+  "name": "Collectors",
+  "updatedAt": {
+    "$date": "2025-07-15T08:02:17.329Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875fc03a677f67a172c63dd"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a9"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:58:10.986Z"
+  },
+  "name": "Individual Investors",
+  "updatedAt": {
+    "$date": "2025-07-15T08:17:31.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875fc91a677f67a172c63df"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a8"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:00:33.571Z"
+  },
+  "name": "General Audience",
+  "updatedAt": {
+    "$date": "2025-07-15T07:56:05.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875fd50a677f67a172c63e1"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a6"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:03:44.689Z"
+  },
+  "name": "Podcast Page",
+  "updatedAt": {
+    "$date": "2025-07-15T07:07:03.598Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875fd65a677f67a172c63e2"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a9"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:04:05.372Z"
+  },
+  "name": "General Audience",
+  "updatedAt": {
+    "$date": "2025-07-15T08:42:57.947Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875fd9ea677f67a172c63e3"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63aa"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:05:02.584Z"
+  },
+  "name": "Alternative Investments",
+  "updatedAt": {
+    "$date": "2025-07-15T11:20:17.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760160a677f67a172c6400"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63aa"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:21:04.771Z"
+  },
+  "name": "Semiconductors",
+  "updatedAt": {
+    "$date": "2025-07-15T11:26:13.434Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876053ba677f67a172c642a"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a9"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:37:31.182Z"
+  },
+  "name": "Freelancers",
+  "updatedAt": {
+    "$date": "2025-07-15T08:14:52.862Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760db8a677f67a172c646a"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a9"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T08:13:44.730Z"
+  },
+  "name": "Job Seekers",
+  "updatedAt": {
+    "$date": "2025-07-15T08:13:44.730Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760ddea677f67a172c646b"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a6"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T08:14:22.646Z"
+  },
+  "name": "Webinar",
+  "updatedAt": {
+    "$date": "2025-07-15T08:18:37.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760e25a677f67a172c646c"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a8"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T08:15:33.844Z"
+  },
+  "name": "Women of Color",
+  "updatedAt": {
+    "$date": "2025-07-15T08:15:33.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760e9ba677f67a172c646f"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a8"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T08:17:31.542Z"
+  },
+  "name": "Businesses",
+  "updatedAt": {
+    "$date": "2025-07-15T08:17:31.542Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760ec6a677f67a172c6470"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a9"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T08:18:14.261Z"
+  },
+  "name": "College Students",
+  "updatedAt": {
+    "$date": "2025-07-15T08:18:14.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760ed1a677f67a172c6471"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a9"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T08:18:25.444Z"
+  },
+  "name": "Women of Color",
+  "updatedAt": {
+    "$date": "2025-07-15T08:18:37.749Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761383a677f67a172c6476"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63aa"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T08:38:27.761Z"
+  },
+  "name": "Digital Infrastructure",
+  "updatedAt": {
+    "$date": "2025-07-15T10:26:03.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687613b6a677f67a172c6477"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63aa"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T08:39:18.439Z"
+  },
+  "name": "Biotech",
+  "updatedAt": {
+    "$date": "2025-07-15T11:29:47.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687615e4a677f67a172c6488"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63a7"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T08:48:36.036Z"
+  },
+  "name": "BOFU",
+  "updatedAt": {
+    "$date": "2025-07-15T11:29:47.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761e98a677f67a172c64a5"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "category": {
+    "$oid": "6875f3afa677f67a172c63aa"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:25:44.651Z"
+  },
+  "name": "Telecommunications",
+  "updatedAt": {
+    "$date": "2025-07-15T11:02:22.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764bd4a677f67a172c6626"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e00"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:38:44.425Z"
+  },
+  "name": "MOFU",
+  "updatedAt": {
+    "$date": "2025-07-15T13:56:06.786Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764bd4a677f67a172c6627"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:38:44.581Z"
+  },
+  "name": "Investment",
+  "updatedAt": {
+    "$date": "2025-07-25T07:05:48.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764bd4a677f67a172c6628"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:38:44.736Z"
+  },
+  "name": "Event Page",
+  "updatedAt": {
+    "$date": "2025-07-15T12:40:28.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764bd4a677f67a172c6629"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:38:44.891Z"
+  },
+  "name": "Investors",
+  "updatedAt": {
+    "$date": "2025-07-25T07:07:41.329Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764bd5a677f67a172c662a"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:38:45.045Z"
+  },
+  "name": "Entrepreneurs",
+  "updatedAt": {
+    "$date": "2025-07-15T13:54:44.259Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764be1a677f67a172c662d"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:38:57.339Z"
+  },
+  "name": "Resource Hub",
+  "updatedAt": {
+    "$date": "2025-07-15T13:55:33.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764be1a677f67a172c662e"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:38:57.492Z"
+  },
+  "name": "Entrepreneurs",
+  "updatedAt": {
+    "$date": "2025-07-15T13:21:48.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764be1a677f67a172c662f"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:38:57.646Z"
+  },
+  "name": "Investors",
+  "updatedAt": {
+    "$date": "2025-07-15T13:28:49.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764c05a677f67a172c6633"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:39:33.200Z"
+  },
+  "name": "Blog Post",
+  "updatedAt": {
+    "$date": "2025-07-25T07:05:48.912Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764dc9a677f67a172c6644"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:47:05.107Z"
+  },
+  "name": "General",
+  "updatedAt": {
+    "$date": "2025-07-15T13:41:23.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764de5a677f67a172c6648"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:47:33.181Z"
+  },
+  "name": "Press Release",
+  "updatedAt": {
+    "$date": "2025-07-15T13:48:13.605Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764e10a677f67a172c664c"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e00"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:48:16.043Z"
+  },
+  "name": "BOFU",
+  "updatedAt": {
+    "$date": "2025-07-25T07:11:38.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764e10a677f67a172c664d"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:48:16.354Z"
+  },
+  "name": "Job Listing",
+  "updatedAt": {
+    "$date": "2025-07-15T12:56:21.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764e10a677f67a172c664e"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:48:16.508Z"
+  },
+  "name": "Job Seekers",
+  "updatedAt": {
+    "$date": "2025-07-15T12:59:59.045Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68764f57a677f67a172c6651"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T12:53:43.783Z"
+  },
+  "name": "Podcast Page",
+  "updatedAt": {
+    "$date": "2025-07-15T13:47:43.200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765123a677f67a172c6654"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:01:22.960Z"
+  },
+  "name": "Biotech and Pharmaceutical Professionals",
+  "updatedAt": {
+    "$date": "2025-07-15T13:30:12.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765198a677f67a172c6659"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:03:20.734Z"
+  },
+  "name": "Retail Media",
+  "updatedAt": {
+    "$date": "2025-07-15T13:27:23.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765199a677f67a172c665a"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:03:21.045Z"
+  },
+  "name": "Brands",
+  "updatedAt": {
+    "$date": "2025-07-15T13:35:16.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765199a677f67a172c665b"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:03:21.199Z"
+  },
+  "name": "Retailers",
+  "updatedAt": {
+    "$date": "2025-07-15T13:40:15.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687651d4a677f67a172c665d"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:04:20.885Z"
+  },
+  "name": "Hospitality Technology",
+  "updatedAt": {
+    "$date": "2025-07-15T13:39:24.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687651faa677f67a172c6661"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:04:58.829Z"
+  },
+  "name": "Legal Notice",
+  "updatedAt": {
+    "$date": "2025-07-15T13:09:59.092Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687651fba677f67a172c6662"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:04:58.984Z"
+  },
+  "name": "General Public",
+  "updatedAt": {
+    "$date": "2025-07-15T13:12:25.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765217a677f67a172c6664"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:05:27.224Z"
+  },
+  "name": "Case Study",
+  "updatedAt": {
+    "$date": "2025-07-15T13:05:27.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765276a677f67a172c6667"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:07:02.642Z"
+  },
+  "name": "Product Page",
+  "updatedAt": {
+    "$date": "2025-07-15T13:14:12.384Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765331a677f67a172c6669"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:10:09.243Z"
+  },
+  "name": "Music Technology",
+  "updatedAt": {
+    "$date": "2025-07-15T13:23:02.390Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765331a677f67a172c666a"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:10:09.551Z"
+  },
+  "name": "Musicians",
+  "updatedAt": {
+    "$date": "2025-07-15T13:10:09.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765331a677f67a172c666b"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:10:09.705Z"
+  },
+  "name": "Content Creators",
+  "updatedAt": {
+    "$date": "2025-07-15T13:30:24.532Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765345a677f67a172c666c"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:10:29.145Z"
+  },
+  "name": "Retail-tech",
+  "updatedAt": {
+    "$date": "2025-07-15T13:53:59.193Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765345a677f67a172c666d"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:10:29.467Z"
+  },
+  "name": "Retailers",
+  "updatedAt": {
+    "$date": "2025-07-15T13:17:11.989Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765354a677f67a172c666e"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:10:44.710Z"
+  },
+  "name": "Engineers",
+  "updatedAt": {
+    "$date": "2025-07-15T13:24:57.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765360a677f67a172c6670"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:10:56.278Z"
+  },
+  "name": "Data Infrastructure",
+  "updatedAt": {
+    "$date": "2025-07-15T13:41:46.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765369a677f67a172c6672"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:11:05.764Z"
+  },
+  "name": "Sales Enablement",
+  "updatedAt": {
+    "$date": "2025-07-15T13:54:13.327Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765374a677f67a172c6674"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:11:16.810Z"
+  },
+  "name": "Edtech",
+  "updatedAt": {
+    "$date": "2025-07-15T13:50:49.504Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765380a677f67a172c6676"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:11:28.925Z"
+  },
+  "name": "Fintech",
+  "updatedAt": {
+    "$date": "2025-07-15T13:51:04.746Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765381a677f67a172c6677"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:11:29.232Z"
+  },
+  "name": "Financial Advisers",
+  "updatedAt": {
+    "$date": "2025-07-15T13:42:55.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687653d6a677f67a172c667b"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:12:54.489Z"
+  },
+  "name": "Healthtech",
+  "updatedAt": {
+    "$date": "2025-07-15T13:51:33.018Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687653d7a677f67a172c667c"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:12:54.950Z"
+  },
+  "name": "General Public",
+  "updatedAt": {
+    "$date": "2025-07-15T13:12:54.950Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687653e1a677f67a172c667e"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:13:05.681Z"
+  },
+  "name": "Corporates",
+  "updatedAt": {
+    "$date": "2025-07-25T07:11:39.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687653e1a677f67a172c667f"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:13:05.835Z"
+  },
+  "name": "Educational Organisations",
+  "updatedAt": {
+    "$date": "2025-07-15T13:13:05.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876542fa677f67a172c6681"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:14:23.262Z"
+  },
+  "name": "Portfolio Page",
+  "updatedAt": {
+    "$date": "2025-07-25T07:11:38.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876546aa677f67a172c6684"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:15:22.120Z"
+  },
+  "name": "Media",
+  "updatedAt": {
+    "$date": "2025-07-15T13:23:52.070Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687654c2a677f67a172c6688"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:16:50.182Z"
+  },
+  "name": "Corporates",
+  "updatedAt": {
+    "$date": "2025-07-15T13:33:48.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765528a677f67a172c668e"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:18:32.360Z"
+  },
+  "name": "HRtech",
+  "updatedAt": {
+    "$date": "2025-07-25T07:07:40.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876558ca677f67a172c6693"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:20:12.177Z"
+  },
+  "name": "Product Tools",
+  "updatedAt": {
+    "$date": "2025-07-15T13:40:04.631Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765597a677f67a172c6695"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:20:23.160Z"
+  },
+  "name": "Proptech",
+  "updatedAt": {
+    "$date": "2025-07-15T13:53:44.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687655a2a677f67a172c6696"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:20:34.019Z"
+  },
+  "name": "Digital Publishers",
+  "updatedAt": {
+    "$date": "2025-07-15T13:20:34.019Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687655aba677f67a172c6697"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:20:43.178Z"
+  },
+  "name": "Financial Advisers",
+  "updatedAt": {
+    "$date": "2025-07-25T07:11:39.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765622a677f67a172c669d"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:22:42.210Z"
+  },
+  "name": "Telecom",
+  "updatedAt": {
+    "$date": "2025-07-15T13:22:42.210Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765636a677f67a172c669e"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:23:02.704Z"
+  },
+  "name": "Hospitality Operators",
+  "updatedAt": {
+    "$date": "2025-07-15T13:35:29.029Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765636a677f67a172c669f"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:23:02.866Z"
+  },
+  "name": "Musicians",
+  "updatedAt": {
+    "$date": "2025-07-15T13:23:02.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876567ca677f67a172c66a2"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:24:12.601Z"
+  },
+  "name": "Job Seekers",
+  "updatedAt": {
+    "$date": "2025-07-25T07:07:41.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687656d5a677f67a172c66a5"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:25:41.423Z"
+  },
+  "name": "Regulatory Technology",
+  "updatedAt": {
+    "$date": "2025-07-25T07:11:38.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687656e0a677f67a172c66a7"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:25:52.350Z"
+  },
+  "name": "Fitness Technology",
+  "updatedAt": {
+    "$date": "2025-07-15T13:25:52.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687656f9a677f67a172c66ac"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:26:17.886Z"
+  },
+  "name": "Government Bodies",
+  "updatedAt": {
+    "$date": "2025-07-15T13:39:12.208Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876573ca677f67a172c66ae"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:27:23.958Z"
+  },
+  "name": "Brands",
+  "updatedAt": {
+    "$date": "2025-07-15T13:34:38.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876576da677f67a172c66b2"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:28:13.424Z"
+  },
+  "name": "Cybersecurity",
+  "updatedAt": {
+    "$date": "2025-07-15T13:41:08.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765892a677f67a172c66b7"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:33:06.500Z"
+  },
+  "name": "AI in Logistics",
+  "updatedAt": {
+    "$date": "2025-07-15T13:38:46.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687658c7a677f67a172c66b9"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:33:59.140Z"
+  },
+  "name": "Sales Teams",
+  "updatedAt": {
+    "$date": "2025-07-15T13:33:59.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876597ea677f67a172c66bb"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:37:02.018Z"
+  },
+  "name": "AI in Insurance",
+  "updatedAt": {
+    "$date": "2025-07-15T13:37:02.018Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687659f2a677f67a172c66bc"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:38:58.187Z"
+  },
+  "name": "Demand Gen Manager",
+  "updatedAt": {
+    "$date": "2025-07-15T13:38:58.187Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765aa8a677f67a172c66c1"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:42:00.046Z"
+  },
+  "name": "Contact Page",
+  "updatedAt": {
+    "$date": "2025-07-15T13:43:18.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68765b09a677f67a172c66c6"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "category": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T13:43:37.314Z"
+  },
+  "name": "Team Page",
+  "updatedAt": {
+    "$date": "2025-07-15T13:46:27.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6878c8dda677f67a172d4660"
+  },
+  "category": {
+    "$oid": "6867adb027516062c45a3713"
+  },
+  "tenant": {
+    "$oid": "6867adafa9af60d2bc328e92"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T09:56:45.457Z"
+  },
+  "name": "MOFU",
+  "updatedAt": {
+    "$date": "2025-07-24T04:52:36.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6878c8dda677f67a172d4661"
+  },
+  "category": {
+    "$oid": "6867adb027516062c45a3716"
+  },
+  "tenant": {
+    "$oid": "6867adafa9af60d2bc328e92"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T09:56:45.617Z"
+  },
+  "name": "Corporate Catering",
+  "updatedAt": {
+    "$date": "2025-07-24T04:52:36.211Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6878c8dda677f67a172d4662"
+  },
+  "tenant": {
+    "$oid": "6867adafa9af60d2bc328e92"
+  },
+  "category": {
+    "$oid": "6867adb027516062c45a3712"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T09:56:45.775Z"
+  },
+  "name": "Resource Hub",
+  "updatedAt": {
+    "$date": "2025-07-24T04:52:36.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6878c8dea677f67a172d4663"
+  },
+  "tenant": {
+    "$oid": "6867adafa9af60d2bc328e92"
+  },
+  "category": {
+    "$oid": "6867adb027516062c45a3714"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T09:56:45.935Z"
+  },
+  "name": "Business Leaders",
+  "updatedAt": {
+    "$date": "2025-07-24T04:52:36.476Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6878c8dea677f67a172d4664"
+  },
+  "tenant": {
+    "$oid": "6867adafa9af60d2bc328e92"
+  },
+  "category": {
+    "$oid": "6867adb027516062c45a3715"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T09:56:46.094Z"
+  },
+  "name": "Event Planners",
+  "updatedAt": {
+    "$date": "2025-07-24T04:52:36.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879247ca677f67a172d46e1"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f09"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:27:40.485Z"
+  },
+  "name": "TOFU",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:18.391Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879247ca677f67a172d46e2"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:27:40.628Z"
+  },
+  "name": "General",
+  "updatedAt": {
+    "$date": "2025-07-17T20:55:54.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879247ca677f67a172d46e3"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:27:40.771Z"
+  },
+  "name": "Soft Skills",
+  "updatedAt": {
+    "$date": "2025-07-17T16:27:40.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879247ca677f67a172d46e4"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:27:40.914Z"
+  },
+  "name": "Sales enablement",
+  "updatedAt": {
+    "$date": "2025-07-17T20:58:07.522Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879247da677f67a172d46e5"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:27:41.057Z"
+  },
+  "name": "Blog Post",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:18.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879247da677f67a172d46e6"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0a"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:27:41.210Z"
+  },
+  "name": "Sales Professionals",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:34.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792499a677f67a172d46e8"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:28:09.104Z"
+  },
+  "name": "Lead Generation",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:18.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924a5a677f67a172d46ea"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:28:21.602Z"
+  },
+  "name": "AI Tools",
+  "updatedAt": {
+    "$date": "2025-07-17T20:55:09.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924aea677f67a172d46eb"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:28:30.340Z"
+  },
+  "name": "B2B Sales",
+  "updatedAt": {
+    "$date": "2025-07-17T21:00:46.481Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924c8a677f67a172d46ec"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:28:56.187Z"
+  },
+  "name": "B2B Data",
+  "updatedAt": {
+    "$date": "2025-07-17T20:54:58.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924d3a677f67a172d46ee"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f09"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:07.317Z"
+  },
+  "name": "BOFU",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:33.608Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924d3a677f67a172d46ef"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:07.889Z"
+  },
+  "name": "Product Page",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:04.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924e0a677f67a172d46f2"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:20.510Z"
+  },
+  "name": "B2B sales",
+  "updatedAt": {
+    "$date": "2025-07-17T21:00:29.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924e0a677f67a172d46f3"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:20.653Z"
+  },
+  "name": "Press Release",
+  "updatedAt": {
+    "$date": "2025-07-17T20:55:23.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924eda677f67a172d46f5"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f09"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:33.719Z"
+  },
+  "name": "MOFU",
+  "updatedAt": {
+    "$date": "2025-07-17T21:00:28.816Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924eda677f67a172d46f6"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:33.862Z"
+  },
+  "name": "Management and transformation consultancy",
+  "updatedAt": {
+    "$date": "2025-07-17T20:50:21.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924eea677f67a172d46f7"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:34.149Z"
+  },
+  "name": "Lead generation",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:18.812Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924eea677f67a172d46f8"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:34.291Z"
+  },
+  "name": "Customer Story",
+  "updatedAt": {
+    "$date": "2025-07-17T20:53:00.152Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687924faa677f67a172d46f9"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:46.604Z"
+  },
+  "name": "Sales Enablement",
+  "updatedAt": {
+    "$date": "2025-07-17T20:45:51.016Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792505a677f67a172d46fb"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:57.639Z"
+  },
+  "name": "ABM",
+  "updatedAt": {
+    "$date": "2025-07-17T20:53:59.209Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792505a677f67a172d46fc"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:57.782Z"
+  },
+  "name": "ABM",
+  "updatedAt": {
+    "$date": "2025-07-17T20:53:59.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792506a677f67a172d46fd"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:29:58.068Z"
+  },
+  "name": "Marketing Professionals",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:19.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879251fa677f67a172d4700"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:30:23.839Z"
+  },
+  "name": "Company Information",
+  "updatedAt": {
+    "$date": "2025-07-17T18:15:34.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792520a677f67a172d4701"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:30:23.981Z"
+  },
+  "name": "Legal Page",
+  "updatedAt": {
+    "$date": "2025-07-17T20:55:54.553Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792520a677f67a172d4702"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:30:24.124Z"
+  },
+  "name": "General Public",
+  "updatedAt": {
+    "$date": "2025-07-17T20:49:52.763Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879253ba677f67a172d4703"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:30:51.249Z"
+  },
+  "name": "Sales technology",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:04.425Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792549a677f67a172d4705"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:31:04.938Z"
+  },
+  "name": "B2B Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:58:25.789Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792549a677f67a172d4706"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:31:05.082Z"
+  },
+  "name": "B2B marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:58:25.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792555a677f67a172d4707"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:31:17.285Z"
+  },
+  "name": "Trigger Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T19:57:22.898Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879256da677f67a172d4708"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:31:41.450Z"
+  },
+  "name": "Go-to-market",
+  "updatedAt": {
+    "$date": "2025-07-17T20:56:21.268Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879256da677f67a172d4709"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:31:41.597Z"
+  },
+  "name": "Go-to-market",
+  "updatedAt": {
+    "$date": "2025-07-17T20:56:33.214Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879256ea677f67a172d470a"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0b"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:31:42.023Z"
+  },
+  "name": "Sales Professionals",
+  "updatedAt": {
+    "$date": "2025-07-17T20:57:50.107Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879257da677f67a172d470b"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0b"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:31:56.930Z"
+  },
+  "name": "Marketing Professionals",
+  "updatedAt": {
+    "$date": "2025-07-17T21:00:14.029Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879258aa677f67a172d470c"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:32:10.185Z"
+  },
+  "name": "Cold Calling",
+  "updatedAt": {
+    "$date": "2025-07-17T20:34:51.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687925aaa677f67a172d470e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:32:41.949Z"
+  },
+  "name": "Email Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:56:47.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687925c6a677f67a172d470f"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:33:10.433Z"
+  },
+  "name": "Software Development",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:33.749Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687925c6a677f67a172d4710"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:33:10.575Z"
+  },
+  "name": "Sales Technology",
+  "updatedAt": {
+    "$date": "2025-07-17T20:55:44.077Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687925d6a677f67a172d4712"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:33:26.141Z"
+  },
+  "name": "Resource Hub",
+  "updatedAt": {
+    "$date": "2025-07-17T20:46:18.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792611a677f67a172d4715"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:34:25.755Z"
+  },
+  "name": "Compliance",
+  "updatedAt": {
+    "$date": "2025-07-17T18:41:55.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879262ba677f67a172d4716"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:34:51.591Z"
+  },
+  "name": "Data Security",
+  "updatedAt": {
+    "$date": "2025-07-17T20:59:58.237Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879262ba677f67a172d4717"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:34:51.733Z"
+  },
+  "name": "Compliance",
+  "updatedAt": {
+    "$date": "2025-07-17T20:59:58.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879262ca677f67a172d4718"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:34:52.018Z"
+  },
+  "name": "Security Professionals",
+  "updatedAt": {
+    "$date": "2025-07-17T20:59:58.658Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792644a677f67a172d471a"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:35:16.629Z"
+  },
+  "name": "Sales Insights",
+  "updatedAt": {
+    "$date": "2025-07-17T17:23:28.897Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792656a677f67a172d471b"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:35:34.370Z"
+  },
+  "name": "Revenue Growth",
+  "updatedAt": {
+    "$date": "2025-07-17T20:43:59.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792662a677f67a172d471c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:35:45.985Z"
+  },
+  "name": "Insurance",
+  "updatedAt": {
+    "$date": "2025-07-17T20:48:10.868Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879267aa677f67a172d471e"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:36:10.337Z"
+  },
+  "name": "Cold calling",
+  "updatedAt": {
+    "$date": "2025-07-17T21:00:46.630Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792687a677f67a172d471f"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:36:23.277Z"
+  },
+  "name": "Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:54:45.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792687a677f67a172d4720"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:36:23.703Z"
+  },
+  "name": "Case Study",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:34.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792695a677f67a172d4722"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:36:37.111Z"
+  },
+  "name": "Intent Data",
+  "updatedAt": {
+    "$date": "2025-07-17T20:47:35.462Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687926aca677f67a172d4724"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0b"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:37:00.443Z"
+  },
+  "name": "Business Development",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:34.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687926c6a677f67a172d4725"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:37:26.201Z"
+  },
+  "name": "Revenue operations",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:04.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687926d0a677f67a172d4727"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:37:36.712Z"
+  },
+  "name": "Demand Generation",
+  "updatedAt": {
+    "$date": "2025-07-17T20:42:38.655Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687926d0a677f67a172d4728"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:37:36.855Z"
+  },
+  "name": "Demand generation",
+  "updatedAt": {
+    "$date": "2025-07-17T20:51:48.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792750a677f67a172d472c"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:39:44.097Z"
+  },
+  "name": "Content Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:18:03.482Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792750a677f67a172d472d"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:39:44.239Z"
+  },
+  "name": "Content marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:38:16.717Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792778a677f67a172d4731"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:40:24.459Z"
+  },
+  "name": "Marketing Events",
+  "updatedAt": {
+    "$date": "2025-07-17T17:05:45.493Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687927d9a677f67a172d4733"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:42:01.250Z"
+  },
+  "name": "Market Expansion",
+  "updatedAt": {
+    "$date": "2025-07-17T20:45:08.559Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687927f9a677f67a172d4736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:42:33.748Z"
+  },
+  "name": "Feature Comparison",
+  "updatedAt": {
+    "$date": "2025-07-17T21:00:13.749Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792823a677f67a172d4738"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:43:15.714Z"
+  },
+  "name": "Partnership Programs",
+  "updatedAt": {
+    "$date": "2025-07-17T19:23:45.857Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792840a677f67a172d4739"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:43:44.782Z"
+  },
+  "name": "Sales Podcasts",
+  "updatedAt": {
+    "$date": "2025-07-17T17:32:41.482Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879288ca677f67a172d473a"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:45:00.732Z"
+  },
+  "name": "Sales Technology",
+  "updatedAt": {
+    "$date": "2025-07-17T20:52:38.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687928b3a677f67a172d473c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:45:39.317Z"
+  },
+  "name": "EU Expansion",
+  "updatedAt": {
+    "$date": "2025-07-17T20:49:38.886Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687928e8a677f67a172d473f"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:46:32.190Z"
+  },
+  "name": "SaaS Marketing Funnel",
+  "updatedAt": {
+    "$date": "2025-07-17T18:27:56.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687928f9a677f67a172d4740"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:46:48.993Z"
+  },
+  "name": "Recruitment Technology",
+  "updatedAt": {
+    "$date": "2025-07-17T20:30:57.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792978a677f67a172d4742"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:48:56.045Z"
+  },
+  "name": "Technographic Data",
+  "updatedAt": {
+    "$date": "2025-07-17T18:53:35.519Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792983a677f67a172d4743"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:49:07.037Z"
+  },
+  "name": "C-suite Selling",
+  "updatedAt": {
+    "$date": "2025-07-17T20:22:00.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792999a677f67a172d4744"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:49:29.313Z"
+  },
+  "name": "Webinar",
+  "updatedAt": {
+    "$date": "2025-07-17T20:54:35.440Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687929a3a677f67a172d4745"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:49:39.044Z"
+  },
+  "name": "Global Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T16:49:39.044Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792a17a677f67a172d4746"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:51:34.945Z"
+  },
+  "name": "Sales Strategy",
+  "updatedAt": {
+    "$date": "2025-07-17T20:40:10.496Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792a84a677f67a172d474a"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:53:24.292Z"
+  },
+  "name": "Information Technology & Services",
+  "updatedAt": {
+    "$date": "2025-07-17T20:59:58.097Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792a97a677f67a172d474b"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:53:43.715Z"
+  },
+  "name": "International Expansion",
+  "updatedAt": {
+    "$date": "2025-07-17T20:49:38.746Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792ae8a677f67a172d474c"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:55:04.540Z"
+  },
+  "name": "Data Centralization",
+  "updatedAt": {
+    "$date": "2025-07-17T17:55:10.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792b10a677f67a172d474d"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:55:44.191Z"
+  },
+  "name": "GDPR Compliance",
+  "updatedAt": {
+    "$date": "2025-07-17T20:57:19.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792b2ea677f67a172d474e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:56:14.423Z"
+  },
+  "name": "Revenue Operations",
+  "updatedAt": {
+    "$date": "2025-07-17T20:42:49.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792b47a677f67a172d4750"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:56:39.879Z"
+  },
+  "name": "Revenue Operations",
+  "updatedAt": {
+    "$date": "2025-07-17T20:59:34.006Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792b72a677f67a172d4752"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:57:22.151Z"
+  },
+  "name": "Predictable Revenue",
+  "updatedAt": {
+    "$date": "2025-07-17T16:57:22.151Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792b8da677f67a172d4753"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T16:57:49.200Z"
+  },
+  "name": "Outbound Sales",
+  "updatedAt": {
+    "$date": "2025-07-17T20:47:46.513Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792c16a677f67a172d4756"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:00:06.616Z"
+  },
+  "name": "Data Enrichment",
+  "updatedAt": {
+    "$date": "2025-07-17T20:48:33.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792c39a677f67a172d4758"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:00:41.706Z"
+  },
+  "name": "Customer Advocacy",
+  "updatedAt": {
+    "$date": "2025-07-17T20:06:29.373Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792d5ba677f67a172d475b"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:05:31.822Z"
+  },
+  "name": "Podcast Page",
+  "updatedAt": {
+    "$date": "2025-07-17T20:44:12.207Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792d75a677f67a172d475c"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:05:57.708Z"
+  },
+  "name": "Marketing Pipeline",
+  "updatedAt": {
+    "$date": "2025-07-17T17:05:57.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792d83a677f67a172d475d"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:06:11.662Z"
+  },
+  "name": "Sales Automation",
+  "updatedAt": {
+    "$date": "2025-07-17T20:52:38.168Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792d8ea677f67a172d475f"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:06:21.998Z"
+  },
+  "name": "Sales Intelligence",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:33.889Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792d8ea677f67a172d4760"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:06:22.281Z"
+  },
+  "name": "About Page",
+  "updatedAt": {
+    "$date": "2025-07-17T20:18:34.141Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792dc9a677f67a172d4761"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:07:21.754Z"
+  },
+  "name": "Marketing & Advertising",
+  "updatedAt": {
+    "$date": "2025-07-17T20:54:12.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792e63a677f67a172d4763"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:09:55.181Z"
+  },
+  "name": "EdTech",
+  "updatedAt": {
+    "$date": "2025-07-17T18:25:35.550Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792e72a677f67a172d4764"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:10:10.824Z"
+  },
+  "name": "Marketing operations",
+  "updatedAt": {
+    "$date": "2025-07-17T20:54:12.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792e9fa677f67a172d4765"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0a"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:10:55.889Z"
+  },
+  "name": "Revenue Operations",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:04.986Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792f45a677f67a172d4766"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:13:41.913Z"
+  },
+  "name": "Sales Management",
+  "updatedAt": {
+    "$date": "2025-07-17T19:40:57.536Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792f46a677f67a172d4767"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:13:42.057Z"
+  },
+  "name": "SDR",
+  "updatedAt": {
+    "$date": "2025-07-17T20:59:33.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68792f77a677f67a172d4768"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:14:31.414Z"
+  },
+  "name": "Buying Signals",
+  "updatedAt": {
+    "$date": "2025-07-17T20:42:14.021Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793050a677f67a172d476a"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:18:07.976Z"
+  },
+  "name": "Paid Advertising",
+  "updatedAt": {
+    "$date": "2025-07-17T17:18:07.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793050a677f67a172d476b"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:18:08.120Z"
+  },
+  "name": "Paid marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:51:20.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879307da677f67a172d476c"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:18:53.086Z"
+  },
+  "name": "White Paper",
+  "updatedAt": {
+    "$date": "2025-07-17T20:53:37.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687931faa677f67a172d476e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:25:14.549Z"
+  },
+  "name": "Contact Management",
+  "updatedAt": {
+    "$date": "2025-07-17T17:25:14.549Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793251a677f67a172d4770"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:26:41.189Z"
+  },
+  "name": "Privacy Policy",
+  "updatedAt": {
+    "$date": "2025-07-17T20:55:54.272Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793300a677f67a172d4772"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:29:36.773Z"
+  },
+  "name": "Tech Stack Optimization",
+  "updatedAt": {
+    "$date": "2025-07-17T20:31:55.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879330ea677f67a172d4773"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:29:49.988Z"
+  },
+  "name": "Virtual Prospecting",
+  "updatedAt": {
+    "$date": "2025-07-17T17:29:49.988Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793319a677f67a172d4774"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:30:01.505Z"
+  },
+  "name": "Allbound Sales",
+  "updatedAt": {
+    "$date": "2025-07-17T20:10:01.476Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793337a677f67a172d4775"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:30:30.976Z"
+  },
+  "name": "Data Hygiene",
+  "updatedAt": {
+    "$date": "2025-07-17T17:42:00.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793379a677f67a172d4776"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:31:37.351Z"
+  },
+  "name": "Digital Manufacturing",
+  "updatedAt": {
+    "$date": "2025-07-17T19:11:34.463Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687933d1a677f67a172d4777"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:33:05.474Z"
+  },
+  "name": "Sales Data Quality",
+  "updatedAt": {
+    "$date": "2025-07-17T19:37:41.354Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687933e9a677f67a172d4778"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:33:29.499Z"
+  },
+  "name": "LinkedIn Voice Messaging",
+  "updatedAt": {
+    "$date": "2025-07-17T19:15:56.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879342aa677f67a172d477a"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:34:34.461Z"
+  },
+  "name": "Lead Conversion",
+  "updatedAt": {
+    "$date": "2025-07-17T20:03:40.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793451a677f67a172d477b"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:35:13.544Z"
+  },
+  "name": "Sales Cadences",
+  "updatedAt": {
+    "$date": "2025-07-17T18:40:46.176Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687934fba677f67a172d477d"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:38:03.201Z"
+  },
+  "name": "Sales Team Motivation",
+  "updatedAt": {
+    "$date": "2025-07-17T20:09:09.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793510a677f67a172d477e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:38:24.179Z"
+  },
+  "name": "Customer Retention",
+  "updatedAt": {
+    "$date": "2025-07-17T20:49:25.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793510a677f67a172d477f"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:38:24.334Z"
+  },
+  "name": "Playbook",
+  "updatedAt": {
+    "$date": "2025-07-17T20:53:24.314Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793532a677f67a172d4781"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:38:57.977Z"
+  },
+  "name": "B2B Telemarketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:01:20.750Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879353ea677f67a172d4782"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:39:09.973Z"
+  },
+  "name": "Customer Pain Points",
+  "updatedAt": {
+    "$date": "2025-07-17T19:50:51.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879354da677f67a172d4784"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:39:25.145Z"
+  },
+  "name": "Contact Page",
+  "updatedAt": {
+    "$date": "2025-07-17T19:38:37.097Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879359ba677f67a172d4787"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:40:43.000Z"
+  },
+  "name": "Sales operations",
+  "updatedAt": {
+    "$date": "2025-07-17T20:29:59.655Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687935a7a677f67a172d4788"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:40:55.491Z"
+  },
+  "name": "Customer Data",
+  "updatedAt": {
+    "$date": "2025-07-17T17:40:55.491Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687935c0a677f67a172d4789"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:41:20.248Z"
+  },
+  "name": "Plastics/chemical industry",
+  "updatedAt": {
+    "$date": "2025-07-17T18:02:50.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687936a4a677f67a172d478c"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:45:07.978Z"
+  },
+  "name": "Real-time Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T17:45:07.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687936b0a677f67a172d478e"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:45:20.745Z"
+  },
+  "name": "Outbound sales",
+  "updatedAt": {
+    "$date": "2025-07-17T20:36:20.478Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687936fba677f67a172d478f"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:46:35.843Z"
+  },
+  "name": "Personalisation",
+  "updatedAt": {
+    "$date": "2025-07-17T18:27:16.728Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879376ea677f67a172d4790"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:48:30.702Z"
+  },
+  "name": "Revenue Enablement",
+  "updatedAt": {
+    "$date": "2025-07-17T17:48:30.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687937b5a677f67a172d4791"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:49:41.489Z"
+  },
+  "name": "B2B Prospecting",
+  "updatedAt": {
+    "$date": "2025-07-17T20:59:22.873Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687937cfa677f67a172d4792"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:50:07.225Z"
+  },
+  "name": "Networking Events",
+  "updatedAt": {
+    "$date": "2025-07-17T17:50:07.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879380ca677f67a172d4793"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:51:08.141Z"
+  },
+  "name": "Security Professionals",
+  "updatedAt": {
+    "$date": "2025-07-17T19:07:25.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879381aa677f67a172d4794"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:51:22.199Z"
+  },
+  "name": "Sales Operations",
+  "updatedAt": {
+    "$date": "2025-07-17T19:27:24.911Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793839a677f67a172d4796"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:51:53.241Z"
+  },
+  "name": "Sales Careers",
+  "updatedAt": {
+    "$date": "2025-07-17T17:51:53.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793848a677f67a172d4798"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:52:07.959Z"
+  },
+  "name": "Social Selling",
+  "updatedAt": {
+    "$date": "2025-07-17T18:05:52.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793887a677f67a172d4799"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:53:11.225Z"
+  },
+  "name": "Territory Planning",
+  "updatedAt": {
+    "$date": "2025-07-17T20:31:35.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687938a3a677f67a172d479b"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:53:39.668Z"
+  },
+  "name": "Cadences",
+  "updatedAt": {
+    "$date": "2025-07-17T18:40:46.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687938cca677f67a172d479c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:54:20.193Z"
+  },
+  "name": "Sales Integrations",
+  "updatedAt": {
+    "$date": "2025-07-17T20:35:40.092Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687938d7a677f67a172d479e"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:54:31.347Z"
+  },
+  "name": "Competitive Displacement",
+  "updatedAt": {
+    "$date": "2025-07-17T18:03:21.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793907a677f67a172d47a2"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:55:19.350Z"
+  },
+  "name": "Customer Support",
+  "updatedAt": {
+    "$date": "2025-07-17T17:55:19.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879396ba677f67a172d47a4"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:56:59.757Z"
+  },
+  "name": "Customer Adoption",
+  "updatedAt": {
+    "$date": "2025-07-17T18:29:21.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879397da677f67a172d47a5"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:57:17.510Z"
+  },
+  "name": "Lead Management",
+  "updatedAt": {
+    "$date": "2025-07-17T20:53:24.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879399ca677f67a172d47a6"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:57:48.270Z"
+  },
+  "name": "Enterprise Sales",
+  "updatedAt": {
+    "$date": "2025-07-17T20:08:34.472Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687939c3a677f67a172d47a7"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:58:27.382Z"
+  },
+  "name": "Trade",
+  "updatedAt": {
+    "$date": "2025-07-17T20:04:08.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687939e1a677f67a172d47a8"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T17:58:57.755Z"
+  },
+  "name": "Manufacturing",
+  "updatedAt": {
+    "$date": "2025-07-17T17:58:57.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793a3fa677f67a172d47a9"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:00:31.877Z"
+  },
+  "name": "Marketing Experimentation",
+  "updatedAt": {
+    "$date": "2025-07-17T18:00:31.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793a4ea677f67a172d47ab"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:00:46.069Z"
+  },
+  "name": "Sales Conversion",
+  "updatedAt": {
+    "$date": "2025-07-17T18:00:46.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793a5ca677f67a172d47ad"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:01:00.165Z"
+  },
+  "name": "Data Strategy",
+  "updatedAt": {
+    "$date": "2025-07-17T18:57:53.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793abfa677f67a172d47af"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:02:39.767Z"
+  },
+  "name": "B2B Brand Awareness",
+  "updatedAt": {
+    "$date": "2025-07-17T18:02:39.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793ad6a677f67a172d47b2"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:03:02.545Z"
+  },
+  "name": "Pricing Comparison",
+  "updatedAt": {
+    "$date": "2025-07-17T20:35:29.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793b44a677f67a172d47b3"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:04:52.336Z"
+  },
+  "name": "Sales Leadership",
+  "updatedAt": {
+    "$date": "2025-07-17T20:59:33.446Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793b64a677f67a172d47b4"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:05:24.235Z"
+  },
+  "name": "Financial Technology",
+  "updatedAt": {
+    "$date": "2025-07-17T20:16:30.371Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793be9a677f67a172d47b6"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:07:37.768Z"
+  },
+  "name": "LinkedIn Prospecting",
+  "updatedAt": {
+    "$date": "2025-07-17T20:29:46.418Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793c30a677f67a172d47b7"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:08:48.764Z"
+  },
+  "name": "Sales Channel Strategy",
+  "updatedAt": {
+    "$date": "2025-07-17T18:08:48.764Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793caba677f67a172d47ba"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:10:51.713Z"
+  },
+  "name": "LegalTech",
+  "updatedAt": {
+    "$date": "2025-07-17T18:10:51.713Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793cb7a677f67a172d47bc"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:11:03.673Z"
+  },
+  "name": "Audience Targeting",
+  "updatedAt": {
+    "$date": "2025-07-17T19:44:24.421Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793d30a677f67a172d47c2"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:13:04.796Z"
+  },
+  "name": "Pricing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:41:27.150Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793d87a677f67a172d47c5"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:14:31.142Z"
+  },
+  "name": "Video Prospecting",
+  "updatedAt": {
+    "$date": "2025-07-17T19:05:10.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793de4a677f67a172d47c6"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:16:04.721Z"
+  },
+  "name": "RevOps Automation",
+  "updatedAt": {
+    "$date": "2025-07-17T18:20:42.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793dffa677f67a172d47c8"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:16:31.154Z"
+  },
+  "name": "Martech",
+  "updatedAt": {
+    "$date": "2025-07-17T19:07:07.338Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793e16a677f67a172d47ca"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:16:53.977Z"
+  },
+  "name": "Sales Performance",
+  "updatedAt": {
+    "$date": "2025-07-17T18:25:10.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793e7ca677f67a172d47cb"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:18:36.309Z"
+  },
+  "name": "FinTech Data Solutions",
+  "updatedAt": {
+    "$date": "2025-07-17T18:18:36.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793e87a677f67a172d47cc"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:18:47.663Z"
+  },
+  "name": "Customer Targeting",
+  "updatedAt": {
+    "$date": "2025-07-17T18:18:47.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793ecaa677f67a172d47ce"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:19:54.869Z"
+  },
+  "name": "EU Marketing Compliance",
+  "updatedAt": {
+    "$date": "2025-07-17T19:40:01.354Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793f69a677f67a172d47d0"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:22:33.372Z"
+  },
+  "name": "Voicemail Strategies",
+  "updatedAt": {
+    "$date": "2025-07-17T18:22:33.372Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793fdea677f67a172d47d1"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:24:30.235Z"
+  },
+  "name": "Vendor Selection",
+  "updatedAt": {
+    "$date": "2025-07-17T19:58:46.498Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68793feba677f67a172d47d4"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:24:43.395Z"
+  },
+  "name": "Recruitment",
+  "updatedAt": {
+    "$date": "2025-07-17T20:49:52.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794079a677f67a172d47d5"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:27:05.178Z"
+  },
+  "name": "Sales Incentive Plans",
+  "updatedAt": {
+    "$date": "2025-07-17T19:17:04.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687940bea677f67a172d47d7"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:28:14.904Z"
+  },
+  "name": "Lead Mining Software",
+  "updatedAt": {
+    "$date": "2025-07-17T18:28:14.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879410da677f67a172d47d8"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:29:33.816Z"
+  },
+  "name": "Playbook",
+  "updatedAt": {
+    "$date": "2025-07-17T20:56:10.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794140a677f67a172d47da"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:30:24.568Z"
+  },
+  "name": "Data Integrity",
+  "updatedAt": {
+    "$date": "2025-07-17T20:52:00.478Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879414aa677f67a172d47db"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:30:34.191Z"
+  },
+  "name": "ROI Calculation",
+  "updatedAt": {
+    "$date": "2025-07-17T20:14:54.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687941eca677f67a172d47df"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:33:16.637Z"
+  },
+  "name": "Marketing Automation",
+  "updatedAt": {
+    "$date": "2025-07-17T18:33:16.637Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879426ba677f67a172d47e2"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:35:23.364Z"
+  },
+  "name": "Sales and Marketing Alignment",
+  "updatedAt": {
+    "$date": "2025-07-17T20:56:09.889Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794285a677f67a172d47e3"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:35:49.045Z"
+  },
+  "name": "Sales Follow-up",
+  "updatedAt": {
+    "$date": "2025-07-17T18:46:40.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794285a677f67a172d47e4"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:35:49.187Z"
+  },
+  "name": "Sales Strategy",
+  "updatedAt": {
+    "$date": "2025-07-17T20:31:35.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794333a677f67a172d47ec"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:38:43.429Z"
+  },
+  "name": "Data Modelling",
+  "updatedAt": {
+    "$date": "2025-07-17T19:43:26.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794341a677f67a172d47ed"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:38:57.365Z"
+  },
+  "name": "Environmental services",
+  "updatedAt": {
+    "$date": "2025-07-17T18:38:57.365Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879437ba677f67a172d47ef"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:39:55.277Z"
+  },
+  "name": "SEO",
+  "updatedAt": {
+    "$date": "2025-07-17T18:39:55.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687943e7a677f67a172d47f0"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:41:43.143Z"
+  },
+  "name": "Ideal Customer Profile",
+  "updatedAt": {
+    "$date": "2025-07-17T20:20:13.608Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879445aa677f67a172d47f1"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:43:38.861Z"
+  },
+  "name": "Data Management",
+  "updatedAt": {
+    "$date": "2025-07-17T19:22:19.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794466a677f67a172d47f3"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:43:50.000Z"
+  },
+  "name": "Competitive Analysis",
+  "updatedAt": {
+    "$date": "2025-07-17T21:00:13.468Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879449da677f67a172d47f5"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:44:45.442Z"
+  },
+  "name": "Sales Qualification",
+  "updatedAt": {
+    "$date": "2025-07-17T20:45:21.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687944c0a677f67a172d47f6"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:45:20.428Z"
+  },
+  "name": "Sales Funnel",
+  "updatedAt": {
+    "$date": "2025-07-17T18:45:20.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687944dba677f67a172d47f7"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:45:46.945Z"
+  },
+  "name": "Modern Slavery",
+  "updatedAt": {
+    "$date": "2025-07-17T18:45:46.945Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687944e7a677f67a172d47f8"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:45:59.199Z"
+  },
+  "name": "Customer Acquisition",
+  "updatedAt": {
+    "$date": "2025-07-17T18:45:59.199Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879451ea677f67a172d47fa"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:46:54.077Z"
+  },
+  "name": "Data Compliance",
+  "updatedAt": {
+    "$date": "2025-07-17T20:59:45.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879454aa677f67a172d47fb"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:47:38.885Z"
+  },
+  "name": "Sales and Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:58:40.117Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794556a677f67a172d47fc"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:47:49.991Z"
+  },
+  "name": "WhatsApp Sales",
+  "updatedAt": {
+    "$date": "2025-07-17T18:47:49.991Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687945c8a677f67a172d4800"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:49:44.896Z"
+  },
+  "name": "Wholesale Data Centres",
+  "updatedAt": {
+    "$date": "2025-07-17T18:49:44.896Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687945f1a677f67a172d4801"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:50:25.623Z"
+  },
+  "name": "Email List Providers",
+  "updatedAt": {
+    "$date": "2025-07-17T20:58:54.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879463ba677f67a172d4803"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:51:39.507Z"
+  },
+  "name": "Localisation",
+  "updatedAt": {
+    "$date": "2025-07-17T19:31:49.048Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879466fa677f67a172d4804"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:52:31.541Z"
+  },
+  "name": "Software solutions",
+  "updatedAt": {
+    "$date": "2025-07-17T20:34:16.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879467ba677f67a172d4805"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:52:43.166Z"
+  },
+  "name": "Recruitment",
+  "updatedAt": {
+    "$date": "2025-07-17T20:43:00.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687946c5a677f67a172d4808"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:53:57.671Z"
+  },
+  "name": "Sales Terminology",
+  "updatedAt": {
+    "$date": "2025-07-17T18:53:57.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687946d3a677f67a172d4809"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:54:11.500Z"
+  },
+  "name": "Sales and Marketing Alignment",
+  "updatedAt": {
+    "$date": "2025-07-17T20:56:59.236Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879472da677f67a172d480b"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:55:41.856Z"
+  },
+  "name": "Data Architecture",
+  "updatedAt": {
+    "$date": "2025-07-17T18:55:41.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794746a677f67a172d480d"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:56:06.800Z"
+  },
+  "name": "Legal Professionals",
+  "updatedAt": {
+    "$date": "2025-07-17T20:59:58.799Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794753a677f67a172d480e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:56:19.851Z"
+  },
+  "name": "Sales Time Management",
+  "updatedAt": {
+    "$date": "2025-07-17T18:56:19.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879477aa677f67a172d4810"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:56:58.341Z"
+  },
+  "name": "Marketing Campaign Management",
+  "updatedAt": {
+    "$date": "2025-07-17T18:56:58.341Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687947e8a677f67a172d4811"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0b"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T18:58:48.490Z"
+  },
+  "name": "Recruitment",
+  "updatedAt": {
+    "$date": "2025-07-17T19:53:29.736Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879484ba677f67a172d4812"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:00:27.608Z"
+  },
+  "name": "Market Analysis",
+  "updatedAt": {
+    "$date": "2025-07-17T20:50:05.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879489ba677f67a172d4813"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:01:47.363Z"
+  },
+  "name": "Sales Quotas",
+  "updatedAt": {
+    "$date": "2025-07-17T19:01:47.363Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879498ba677f67a172d4817"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:05:47.092Z"
+  },
+  "name": "B2B Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:18.532Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879499ba677f67a172d4818"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0a"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:06:03.249Z"
+  },
+  "name": "Legal Professionals",
+  "updatedAt": {
+    "$date": "2025-07-17T20:57:19.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794a3fa677f67a172d481a"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:08:47.255Z"
+  },
+  "name": "Sales Skills",
+  "updatedAt": {
+    "$date": "2025-07-17T19:13:07.170Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794a98a677f67a172d481c"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:10:16.186Z"
+  },
+  "name": "Real-time Data",
+  "updatedAt": {
+    "$date": "2025-07-17T19:10:16.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794bf9a677f67a172d481e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:16:09.389Z"
+  },
+  "name": "Sales Goals",
+  "updatedAt": {
+    "$date": "2025-07-17T19:16:09.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794d97a677f67a172d4820"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:23:03.219Z"
+  },
+  "name": "Ungated Content",
+  "updatedAt": {
+    "$date": "2025-07-17T19:49:11.490Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794dcfa677f67a172d4821"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:23:59.858Z"
+  },
+  "name": "Data Driven Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T19:23:59.858Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794df7a677f67a172d4822"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:24:39.085Z"
+  },
+  "name": "Sales Acceleration",
+  "updatedAt": {
+    "$date": "2025-07-17T20:57:32.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794e16a677f67a172d4824"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:25:10.002Z"
+  },
+  "name": "B2B Technology",
+  "updatedAt": {
+    "$date": "2025-07-17T20:14:40.158Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794e41a677f67a172d4826"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:25:53.757Z"
+  },
+  "name": "Sales Objections",
+  "updatedAt": {
+    "$date": "2025-07-17T20:51:04.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794eaba677f67a172d4828"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:27:39.034Z"
+  },
+  "name": "Facebook Advertising",
+  "updatedAt": {
+    "$date": "2025-07-17T19:27:39.034Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794f46a677f67a172d482b"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:30:13.996Z"
+  },
+  "name": "CRM Software",
+  "updatedAt": {
+    "$date": "2025-07-17T19:30:13.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68794fcca677f67a172d482d"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:32:28.180Z"
+  },
+  "name": "Sales Prospecting",
+  "updatedAt": {
+    "$date": "2025-07-17T19:42:05.808Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795009a677f67a172d482f"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:33:29.065Z"
+  },
+  "name": "Market Intelligence",
+  "updatedAt": {
+    "$date": "2025-07-17T19:33:29.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795073a677f67a172d4830"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:35:15.685Z"
+  },
+  "name": "Transport & Logistics",
+  "updatedAt": {
+    "$date": "2025-07-17T20:24:57.189Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687950bda677f67a172d4832"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:36:29.572Z"
+  },
+  "name": "Dark Funnel",
+  "updatedAt": {
+    "$date": "2025-07-17T19:36:29.572Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687950e2a677f67a172d4834"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:37:06.288Z"
+  },
+  "name": "Lead Enrichment",
+  "updatedAt": {
+    "$date": "2025-07-17T20:36:56.983Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687950eda677f67a172d4835"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:37:17.007Z"
+  },
+  "name": "CRM Enrichment",
+  "updatedAt": {
+    "$date": "2025-07-17T20:46:32.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687950f8a677f67a172d4836"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:37:28.666Z"
+  },
+  "name": "Data-Driven Strategy",
+  "updatedAt": {
+    "$date": "2025-07-17T20:34:16.369Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879513da677f67a172d4837"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:38:36.938Z"
+  },
+  "name": "Contact Information",
+  "updatedAt": {
+    "$date": "2025-07-17T19:38:36.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687951bda677f67a172d483a"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:40:45.693Z"
+  },
+  "name": "Sales Cadences",
+  "updatedAt": {
+    "$date": "2025-07-17T19:40:45.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687951fda677f67a172d483c"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:41:49.888Z"
+  },
+  "name": "Sales Stress Management",
+  "updatedAt": {
+    "$date": "2025-07-17T19:41:49.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879522aa677f67a172d483e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:42:34.725Z"
+  },
+  "name": "Data Quality",
+  "updatedAt": {
+    "$date": "2025-07-17T20:53:10.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687952cda677f67a172d4841"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:45:17.897Z"
+  },
+  "name": "Marketing Accountability",
+  "updatedAt": {
+    "$date": "2025-07-17T19:45:17.897Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879536ca677f67a172d4843"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:47:56.231Z"
+  },
+  "name": "Service Level Agreement",
+  "updatedAt": {
+    "$date": "2025-07-17T20:34:26.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687953dda677f67a172d4846"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:49:49.447Z"
+  },
+  "name": "Open Source Software",
+  "updatedAt": {
+    "$date": "2025-07-17T19:49:49.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879543fa677f67a172d484a"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:51:27.583Z"
+  },
+  "name": "RevOps Tech Stack",
+  "updatedAt": {
+    "$date": "2025-07-17T19:51:27.583Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879553ca677f67a172d484c"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:55:40.427Z"
+  },
+  "name": "LinkedIn Statistics",
+  "updatedAt": {
+    "$date": "2025-07-17T19:55:40.427Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879555da677f67a172d484e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:56:13.596Z"
+  },
+  "name": "Sales Pipeline",
+  "updatedAt": {
+    "$date": "2025-07-17T20:52:48.583Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795583a677f67a172d4850"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T19:56:51.466Z"
+  },
+  "name": "Metrics and KPIs",
+  "updatedAt": {
+    "$date": "2025-07-17T19:56:51.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879565fa677f67a172d4851"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:00:31.697Z"
+  },
+  "name": "Sales Tools",
+  "updatedAt": {
+    "$date": "2025-07-17T20:00:31.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795690a677f67a172d4852"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:01:20.606Z"
+  },
+  "name": "B2B Sales",
+  "updatedAt": {
+    "$date": "2025-07-17T21:00:46.341Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687956eba677f67a172d4854"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:02:51.835Z"
+  },
+  "name": "Sales Triggers",
+  "updatedAt": {
+    "$date": "2025-07-17T20:02:51.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879572aa677f67a172d4856"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:03:54.917Z"
+  },
+  "name": "Lead Intelligence",
+  "updatedAt": {
+    "$date": "2025-07-17T20:03:54.917Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879578fa677f67a172d4858"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:05:34.966Z"
+  },
+  "name": "Lead Nurturing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:54:12.574Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687957d7a677f67a172d4859"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:06:47.120Z"
+  },
+  "name": "Sales Intelligence",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:34.029Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879580fa677f67a172d485b"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:07:43.157Z"
+  },
+  "name": "Data Storytelling",
+  "updatedAt": {
+    "$date": "2025-07-17T20:07:43.157Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795825a677f67a172d485c"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:08:05.683Z"
+  },
+  "name": "Sales Training",
+  "updatedAt": {
+    "$date": "2025-07-17T20:08:05.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687958b9a677f67a172d485e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:10:33.565Z"
+  },
+  "name": "Customer Centricity",
+  "updatedAt": {
+    "$date": "2025-07-17T20:10:33.565Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879590ea677f67a172d485f"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:11:58.834Z"
+  },
+  "name": "Revenue Optimization",
+  "updatedAt": {
+    "$date": "2025-07-17T20:11:58.834Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879594ca677f67a172d4860"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:13:00.172Z"
+  },
+  "name": "Personal Selling",
+  "updatedAt": {
+    "$date": "2025-07-17T20:13:00.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879597aa677f67a172d4861"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:13:46.090Z"
+  },
+  "name": "Data Efficiency",
+  "updatedAt": {
+    "$date": "2025-07-17T20:13:46.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795987a677f67a172d4862"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:13:59.434Z"
+  },
+  "name": "Logistics Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:13:59.434Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795994a677f67a172d4863"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:14:12.374Z"
+  },
+  "name": "Email Finding",
+  "updatedAt": {
+    "$date": "2025-07-17T20:41:51.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795a66a677f67a172d4865"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:17:42.162Z"
+  },
+  "name": "Data as a Service",
+  "updatedAt": {
+    "$date": "2025-07-17T20:55:33.922Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795adba677f67a172d4867"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:19:39.871Z"
+  },
+  "name": "Hospitals and Health Care",
+  "updatedAt": {
+    "$date": "2025-07-17T20:19:39.871Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795b0da677f67a172d4868"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:20:29.221Z"
+  },
+  "name": "Account Expansion",
+  "updatedAt": {
+    "$date": "2025-07-17T20:20:29.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795bc9a677f67a172d486b"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:23:37.547Z"
+  },
+  "name": "Sales Administration",
+  "updatedAt": {
+    "$date": "2025-07-17T20:23:37.547Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795bf0a677f67a172d486c"
+  },
+  "category": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:24:16.653Z"
+  },
+  "name": "Recruitment",
+  "updatedAt": {
+    "$date": "2025-07-17T20:49:52.476Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795bf0a677f67a172d486d"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:24:16.793Z"
+  },
+  "name": "Careers Page",
+  "updatedAt": {
+    "$date": "2025-07-17T20:49:52.623Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795c3ca677f67a172d486f"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:25:32.332Z"
+  },
+  "name": "SaaS Sales",
+  "updatedAt": {
+    "$date": "2025-07-17T20:25:32.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795c54a677f67a172d4870"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:25:56.910Z"
+  },
+  "name": "Account-Based Selling",
+  "updatedAt": {
+    "$date": "2025-07-17T20:25:56.910Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795c6aa677f67a172d4872"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:26:18.458Z"
+  },
+  "name": "B2B Brand Strategy",
+  "updatedAt": {
+    "$date": "2025-07-17T20:26:18.458Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795d75a677f67a172d4874"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:30:45.631Z"
+  },
+  "name": "LinkedIn Advertising",
+  "updatedAt": {
+    "$date": "2025-07-17T20:30:45.631Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795d81a677f67a172d4875"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "68776d7aa677f67a172d3f0a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:30:57.760Z"
+  },
+  "name": "Recruitment",
+  "updatedAt": {
+    "$date": "2025-07-17T20:30:57.760Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795e1aa677f67a172d4878"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:33:30.413Z"
+  },
+  "name": "Sales Efficiency",
+  "updatedAt": {
+    "$date": "2025-07-17T20:33:30.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795e77a677f67a172d487a"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:35:03.555Z"
+  },
+  "name": "Revenue Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:39:14.596Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795eb7a677f67a172d487b"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:36:07.402Z"
+  },
+  "name": "Funnel Analysis",
+  "updatedAt": {
+    "$date": "2025-07-17T20:36:07.402Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795f38a677f67a172d487d"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:38:16.577Z"
+  },
+  "name": "Gated vs Ungated Content",
+  "updatedAt": {
+    "$date": "2025-07-17T20:38:16.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795f46a677f67a172d487e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:38:30.683Z"
+  },
+  "name": "Referrals",
+  "updatedAt": {
+    "$date": "2025-07-17T20:38:30.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795f64a677f67a172d4880"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:39:00.146Z"
+  },
+  "name": "Sales Cycle Optimization",
+  "updatedAt": {
+    "$date": "2025-07-17T20:39:00.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795f7fa677f67a172d4881"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:39:27.865Z"
+  },
+  "name": "Trade Show Lead Generation",
+  "updatedAt": {
+    "$date": "2025-07-17T20:39:27.865Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795fb6a677f67a172d4882"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:40:22.099Z"
+  },
+  "name": "Sales Process",
+  "updatedAt": {
+    "$date": "2025-07-17T20:40:22.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68795fcea677f67a172d4883"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:40:46.425Z"
+  },
+  "name": "CRM Data Management",
+  "updatedAt": {
+    "$date": "2025-07-17T20:40:46.425Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68796031a677f67a172d4884"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:42:25.795Z"
+  },
+  "name": "Account Based Engagement",
+  "updatedAt": {
+    "$date": "2025-07-17T20:42:25.795Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879609ca677f67a172d4885"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:44:11.928Z"
+  },
+  "name": "RevOps Strategy",
+  "updatedAt": {
+    "$date": "2025-07-17T21:01:04.565Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687960a6a677f67a172d4886"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:44:22.378Z"
+  },
+  "name": "Sales Improvement",
+  "updatedAt": {
+    "$date": "2025-07-17T20:44:22.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687960c8a677f67a172d4887"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:44:56.137Z"
+  },
+  "name": "Dark Social",
+  "updatedAt": {
+    "$date": "2025-07-17T20:44:56.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879611aa677f67a172d4888"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:46:18.601Z"
+  },
+  "name": "Data-Driven Decision Making",
+  "updatedAt": {
+    "$date": "2025-07-17T20:46:18.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68796248a677f67a172d488a"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:51:20.667Z"
+  },
+  "name": "Performance Marketing",
+  "updatedAt": {
+    "$date": "2025-07-17T20:51:20.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68796264a677f67a172d488c"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:51:48.377Z"
+  },
+  "name": "Demand Generation KPIs",
+  "updatedAt": {
+    "$date": "2025-07-17T20:51:48.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879627ca677f67a172d488d"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:52:12.455Z"
+  },
+  "name": "Sales Experience",
+  "updatedAt": {
+    "$date": "2025-07-17T20:52:12.455Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687962dda677f67a172d488e"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:53:48.985Z"
+  },
+  "name": "Startup Sales",
+  "updatedAt": {
+    "$date": "2025-07-17T20:53:48.985Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68796300a677f67a172d488f"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:54:24.420Z"
+  },
+  "name": "Email Lead Generation",
+  "updatedAt": {
+    "$date": "2025-07-17T20:54:24.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68796381a677f67a172d4890"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:56:33.074Z"
+  },
+  "name": "B2B Sales Tools",
+  "updatedAt": {
+    "$date": "2025-07-17T20:56:33.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687963cda677f67a172d4892"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:57:49.546Z"
+  },
+  "name": "Customer Engagement",
+  "updatedAt": {
+    "$date": "2025-07-17T20:57:49.546Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687963dfa677f67a172d4894"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T20:58:07.382Z"
+  },
+  "name": "Lead Scoring",
+  "updatedAt": {
+    "$date": "2025-07-17T20:58:07.382Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6879646da677f67a172d4895"
+  },
+  "category": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-17T21:00:29.098Z"
+  },
+  "name": "Phone Number Databases",
+  "updatedAt": {
+    "$date": "2025-07-17T21:00:29.098Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68832ccdc696056525c56e64"
+  },
+  "category": {
+    "$oid": "68832bda018858853f0f2870"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T07:05:49.056Z"
+  },
+  "name": "No",
+  "updatedAt": {
+    "$date": "2025-07-25T07:05:49.056Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68832d3dc696056525c56e65"
+  },
+  "category": {
+    "$oid": "68832bda018858853f0f2870"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T07:07:41.187Z"
+  },
+  "name": "Yes",
+  "updatedAt": {
+    "$date": "2025-07-25T07:11:39.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c531ac696056525c6c20a"
+  },
+  "category": {
+    "$oid": "688c5313b466f3111fd5f22c"
+  },
+  "tenant": {
+    "$oid": "68136d41b8c267a74ecb3213"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T05:39:38.753Z"
+  },
+  "name": "Developer",
+  "updatedAt": {
+    "$date": "2025-08-01T05:39:47.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5335b466f3111fd5f231"
+  },
+  "name": "stack attribute 1",
+  "tenant": {
+    "$oid": "68136d41b8c267a74ecb3213"
+  },
+  "category": {
+    "$oid": "688c5313b466f3111fd5f22c"
+  },
+  "providerId": {
+    "$oid": "68136e31b8c267a74ecb32da"
+  },
+  "createdAt": {
+    "$date": "2025-08-01T05:40:05.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-01T05:40:05.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c533ab466f3111fd5f236"
+  },
+  "name": "stack attribute 2",
+  "tenant": {
+    "$oid": "68136d41b8c267a74ecb3213"
+  },
+  "category": {
+    "$oid": "688c5313b466f3111fd5f22c"
+  },
+  "providerId": {
+    "$oid": "68136e31b8c267a74ecb32da"
+  },
+  "createdAt": {
+    "$date": "2025-08-01T05:40:10.311Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-01T05:40:10.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688c5aedc696056525c6c22e"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ee"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:00.972Z"
+  },
+  "name": "MOFU",
+  "updatedAt": {
+    "$date": "2025-08-01T06:42:18.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5aedc696056525c6c22f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2f1"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:01.114Z"
+  },
+  "name": "Solar Energy",
+  "updatedAt": {
+    "$date": "2025-08-01T06:42:18.613Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5aedc696056525c6c230"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:01.257Z"
+  },
+  "name": "Resource Hub",
+  "updatedAt": {
+    "$date": "2025-08-01T06:42:18.756Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5aedc696056525c6c231"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ef"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:01.400Z"
+  },
+  "name": "Solar Developers",
+  "updatedAt": {
+    "$date": "2025-08-01T06:42:18.898Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5aedc696056525c6c232"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2f0"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:01.542Z"
+  },
+  "name": "Clean Energy Investors",
+  "updatedAt": {
+    "$date": "2025-08-01T06:41:37.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5af7c696056525c6c235"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ee"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:11.699Z"
+  },
+  "name": "BOFU",
+  "updatedAt": {
+    "$date": "2025-08-01T06:37:01.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5af8c696056525c6c236"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:11.982Z"
+  },
+  "name": "Support Page",
+  "updatedAt": {
+    "$date": "2025-08-01T06:17:34.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5af8c696056525c6c237"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ef"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:12.123Z"
+  },
+  "name": "Residential Solar Customers",
+  "updatedAt": {
+    "$date": "2025-08-01T06:41:16.902Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5b03c696056525c6c239"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ef"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:23.826Z"
+  },
+  "name": "Commercial Clients",
+  "updatedAt": {
+    "$date": "2025-08-01T06:41:06.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5b0ec696056525c6c23b"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2f0"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:33.935Z"
+  },
+  "name": "Solar Developers",
+  "updatedAt": {
+    "$date": "2025-08-01T06:40:37.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5b15c696056525c6c23e"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:41.716Z"
+  },
+  "name": "Careers Page",
+  "updatedAt": {
+    "$date": "2025-08-01T06:20:22.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5b15c696056525c6c23f"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ef"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:13:41.857Z"
+  },
+  "name": "Job Seekers",
+  "updatedAt": {
+    "$date": "2025-08-01T06:20:23.115Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5b4cc696056525c6c243"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2f1"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:14:35.937Z"
+  },
+  "name": "General",
+  "updatedAt": {
+    "$date": "2025-08-01T06:42:29.595Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5b4cc696056525c6c244"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:14:36.077Z"
+  },
+  "name": "Legal Page",
+  "updatedAt": {
+    "$date": "2025-08-01T06:20:02.444Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5b4cc696056525c6c245"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ef"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:14:36.225Z"
+  },
+  "name": "General Audience",
+  "updatedAt": {
+    "$date": "2025-08-01T06:42:29.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5b54c696056525c6c247"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:14:44.710Z"
+  },
+  "name": "About Page",
+  "updatedAt": {
+    "$date": "2025-08-01T06:20:31.295Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5b83c696056525c6c249"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2f0"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:15:31.131Z"
+  },
+  "name": "Residential Solar Customers",
+  "updatedAt": {
+    "$date": "2025-08-01T06:20:02.728Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5b9cc696056525c6c24b"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:15:56.568Z"
+  },
+  "name": "Event Page",
+  "updatedAt": {
+    "$date": "2025-08-01T06:32:39.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5ba5c696056525c6c24d"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:16:04.975Z"
+  },
+  "name": "Product Page",
+  "updatedAt": {
+    "$date": "2025-08-01T06:20:40.077Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5bc9c696056525c6c24f"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2f0"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:16:41.844Z"
+  },
+  "name": "Commercial Clients",
+  "updatedAt": {
+    "$date": "2025-08-01T06:42:19.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5c6fc696056525c6c258"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:19:27.729Z"
+  },
+  "name": "Customer Story",
+  "updatedAt": {
+    "$date": "2025-08-01T06:37:01.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5cafc696056525c6c25c"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ef"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:20:31.436Z"
+  },
+  "name": "Clean Energy Investors",
+  "updatedAt": {
+    "$date": "2025-08-01T06:40:57.284Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5cc9c696056525c6c25d"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ee"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:20:57.807Z"
+  },
+  "name": "TOFU",
+  "updatedAt": {
+    "$date": "2025-08-01T06:42:29.452Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5cf6c696056525c6c25e"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2f0"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:21:42.007Z"
+  },
+  "name": "Job Seekers",
+  "updatedAt": {
+    "$date": "2025-08-01T06:25:22.010Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5d09c696056525c6c261"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2f1"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:22:01.043Z"
+  },
+  "name": "Data Centers",
+  "updatedAt": {
+    "$date": "2025-08-01T06:34:01.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5d39c696056525c6c263"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:22:49.162Z"
+  },
+  "name": "Podcast Page",
+  "updatedAt": {
+    "$date": "2025-08-01T06:38:20.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5dd1c696056525c6c269"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:25:21.725Z"
+  },
+  "name": "Blog Post",
+  "updatedAt": {
+    "$date": "2025-08-01T06:42:29.738Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5e1bc696056525c6c26b"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2f1"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:26:35.404Z"
+  },
+  "name": "Commercial Real Estate",
+  "updatedAt": {
+    "$date": "2025-08-01T06:41:06.416Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c61b4c696056525c6c281"
+  },
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "category": {
+    "$oid": "6863c538392cc0715234d2f0"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T06:41:56.891Z"
+  },
+  "name": "Corporate Clients",
+  "updatedAt": {
+    "$date": "2025-08-01T06:41:56.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9ad2c696056525c6c2e8"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a1"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:45:38.861Z"
+  },
+  "name": "TOFU",
+  "updatedAt": {
+    "$date": "2025-08-01T11:49:42.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9ad3c696056525c6c2e9"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a4"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:45:39.005Z"
+  },
+  "name": "General",
+  "updatedAt": {
+    "$date": "2025-08-01T11:50:02.829Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9ad3c696056525c6c2ea"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a0"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:45:39.148Z"
+  },
+  "name": "Resource Hub",
+  "updatedAt": {
+    "$date": "2025-08-01T11:50:02.986Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9ad3c696056525c6c2eb"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a2"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:45:39.291Z"
+  },
+  "name": "Marketing Leader",
+  "updatedAt": {
+    "$date": "2025-08-01T11:50:03.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9adcc696056525c6c2ee"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a0"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:45:48.778Z"
+  },
+  "name": "Blog Post",
+  "updatedAt": {
+    "$date": "2025-08-01T11:49:42.326Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9af3c696056525c6c2f2"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a2"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:46:11.857Z"
+  },
+  "name": "General Public",
+  "updatedAt": {
+    "$date": "2025-08-01T11:49:13.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9b46c696056525c6c2f7"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a0"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:47:34.839Z"
+  },
+  "name": "Event Promotion",
+  "updatedAt": {
+    "$date": "2025-08-01T11:21:57.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9ba4c696056525c6c2fb"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a0"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:49:08.163Z"
+  },
+  "name": "News Article",
+  "updatedAt": {
+    "$date": "2025-08-01T11:49:13.024Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9c6cc696056525c6c302"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a0"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:52:28.594Z"
+  },
+  "name": "Customer Story",
+  "updatedAt": {
+    "$date": "2025-08-01T10:52:28.594Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9c80c696056525c6c304"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a2"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:52:48.696Z"
+  },
+  "name": "HR Leader",
+  "updatedAt": {
+    "$date": "2025-08-01T11:19:31.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9ca0c696056525c6c305"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a1"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:53:20.351Z"
+  },
+  "name": "MOFU",
+  "updatedAt": {
+    "$date": "2025-08-01T11:50:02.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9cc0c696056525c6c306"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a0"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:53:52.555Z"
+  },
+  "name": "Case Study",
+  "updatedAt": {
+    "$date": "2025-08-01T11:39:41.863Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9ce3c696056525c6c308"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a0"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:54:27.255Z"
+  },
+  "name": "Product Page",
+  "updatedAt": {
+    "$date": "2025-08-01T11:26:13.761Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c9d16c696056525c6c30a"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a3"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T10:55:18.015Z"
+  },
+  "name": "HR Leader",
+  "updatedAt": {
+    "$date": "2025-08-01T11:06:48.260Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688ca0b4c696056525c6c31a"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a4"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T11:10:43.957Z"
+  },
+  "name": "FMCG",
+  "updatedAt": {
+    "$date": "2025-08-01T11:48:07.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688ca3a1c696056525c6c324"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a0"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T11:23:13.575Z"
+  },
+  "name": "Legal Notice",
+  "updatedAt": {
+    "$date": "2025-08-01T11:28:23.593Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688ca40bc696056525c6c327"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a0"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T11:24:59.473Z"
+  },
+  "name": "Landing Page",
+  "updatedAt": {
+    "$date": "2025-08-01T11:46:37.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688ca417c696056525c6c328"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a3"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T11:25:11.130Z"
+  },
+  "name": "Sales Leader",
+  "updatedAt": {
+    "$date": "2025-08-01T11:49:03.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688ca496c696056525c6c32a"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a2"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T11:27:18.818Z"
+  },
+  "name": "Legal Professional",
+  "updatedAt": {
+    "$date": "2025-08-01T11:28:14.941Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688ca6fbc696056525c6c333"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a4"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T11:37:31.372Z"
+  },
+  "name": "Healthcare",
+  "updatedAt": {
+    "$date": "2025-08-01T11:37:31.372Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688ca71bc696056525c6c334"
+  },
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "category": {
+    "$oid": "686cef43322ccc76493e29a4"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-01T11:38:03.715Z"
+  },
+  "name": "Automotive",
+  "updatedAt": {
+    "$date": "2025-08-01T11:38:03.715Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ea7ff389a4f7259d47f5"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c764"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:39:11.454Z"
+  },
+  "name": "TOFU",
+  "updatedAt": {
+    "$date": "2025-08-06T06:35:38.077Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ea7ff389a4f7259d47f6"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c767"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:39:11.608Z"
+  },
+  "name": "Advertising",
+  "updatedAt": {
+    "$date": "2025-08-06T06:35:38.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ea7ff389a4f7259d47f7"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c763"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:39:11.768Z"
+  },
+  "name": "Resource Hub",
+  "updatedAt": {
+    "$date": "2025-08-06T06:35:38.359Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ea7ff389a4f7259d47f8"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c765"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:39:11.920Z"
+  },
+  "name": "Advertisers",
+  "updatedAt": {
+    "$date": "2025-08-06T06:35:38.499Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ea80f389a4f7259d47f9"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c766"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:39:12.073Z"
+  },
+  "name": "Publishers",
+  "updatedAt": {
+    "$date": "2025-08-06T06:35:38.638Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892eaf8f389a4f7259d47ff"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c767"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:41:12.337Z"
+  },
+  "name": "Other",
+  "updatedAt": {
+    "$date": "2025-08-06T06:28:22.916Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892eb02f389a4f7259d4802"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c763"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:41:22.590Z"
+  },
+  "name": "Other",
+  "updatedAt": {
+    "$date": "2025-08-06T06:34:53.992Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ebbef389a4f7259d4808"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c767"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:44:30.293Z"
+  },
+  "name": "General",
+  "updatedAt": {
+    "$date": "2025-08-06T06:34:53.852Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ec06f389a4f7259d480b"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c764"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:45:42.621Z"
+  },
+  "name": "MOFU",
+  "updatedAt": {
+    "$date": "2025-08-06T06:34:45.852Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ecbaf389a4f7259d4810"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c764"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:48:41.983Z"
+  },
+  "name": "BOFU",
+  "updatedAt": {
+    "$date": "2025-08-06T06:16:34.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ecc2f389a4f7259d4812"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c765"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:48:50.286Z"
+  },
+  "name": "General Audience",
+  "updatedAt": {
+    "$date": "2025-08-06T06:34:54.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892eccbf389a4f7259d4813"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c765"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:48:59.146Z"
+  },
+  "name": "Publishers",
+  "updatedAt": {
+    "$date": "2025-08-06T06:31:35.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ed08f389a4f7259d4814"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c763"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:50:00.196Z"
+  },
+  "name": "Case Study",
+  "updatedAt": {
+    "$date": "2025-08-06T06:27:03.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ee46f389a4f7259d481c"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c766"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:55:18.734Z"
+  },
+  "name": "Advertisers",
+  "updatedAt": {
+    "$date": "2025-08-06T06:31:35.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892ee5bf389a4f7259d481d"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c766"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T05:55:39.508Z"
+  },
+  "name": "General Audience",
+  "updatedAt": {
+    "$date": "2025-08-06T06:27:03.563Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892f320f389a4f7259d48fb"
+  },
+  "category": {
+    "$oid": "68904d38c696056525c6c763"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-06T06:16:00.918Z"
+  },
+  "name": "Landing Page",
+  "updatedAt": {
+    "$date": "2025-08-06T06:34:46.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68947859f389a4f7259d4c50"
+  },
+  "category": {
+    "$oid": "6894784a1024975d432cc909"
+  },
+  "tenant": {
+    "$oid": "6810971d4824772abbf5b3a3"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-07T09:56:41.793Z"
+  },
+  "name": "Resource Hub",
+  "updatedAt": {
+    "$date": "2025-08-07T09:56:41.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899df83f389a4f7259d54d7"
+  },
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "category": {
+    "$oid": "6899d0a2f389a4f7259d5484"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T12:18:11.406Z"
+  },
+  "name": "BOFU",
+  "updatedAt": {
+    "$date": "2025-08-11T12:27:54.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899df83f389a4f7259d54d8"
+  },
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "category": {
+    "$oid": "6899d0a2f389a4f7259d5487"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T12:18:11.421Z"
+  },
+  "name": "General",
+  "updatedAt": {
+    "$date": "2025-08-13T01:00:58.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899df83f389a4f7259d54d9"
+  },
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "category": {
+    "$oid": "6899d0a2f389a4f7259d5483"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T12:18:11.436Z"
+  },
+  "name": "Landing Page",
+  "updatedAt": {
+    "$date": "2025-08-11T12:27:55.028Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899df83f389a4f7259d54da"
+  },
+  "category": {
+    "$oid": "6899d0a2f389a4f7259d5485"
+  },
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T12:18:11.451Z"
+  },
+  "name": "Homeowners",
+  "updatedAt": {
+    "$date": "2025-08-13T01:00:58.840Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899e00df389a4f7259d54e0"
+  },
+  "category": {
+    "$oid": "6899d0a2f389a4f7259d5484"
+  },
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T12:20:29.933Z"
+  },
+  "name": "TOFU",
+  "updatedAt": {
+    "$date": "2025-08-13T01:00:58.433Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899e0aaf389a4f7259d54e3"
+  },
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "category": {
+    "$oid": "6899d0a2f389a4f7259d5483"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T12:23:06.307Z"
+  },
+  "name": "Blog Post",
+  "updatedAt": {
+    "$date": "2025-08-13T01:00:58.708Z"
+  }
+}]

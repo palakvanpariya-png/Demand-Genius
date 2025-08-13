@@ -1,0 +1,4222 @@
+[{
+  "_id": {
+    "$oid": "6837ea0c85d40cd675090b3d"
+  },
+  "name": "Stackoverflow category",
+  "tenant": {
+    "$oid": "68136d41b8c267a74ecb3213"
+  },
+  "providerId": {
+    "$oid": "68136e31b8c267a74ecb32da"
+  },
+  "createdAt": {
+    "$date": "2025-05-29T05:01:00.906Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T06:02:10.370Z"
+  },
+  "__v": 0,
+  "slug": "stackoverflow_category"
+},
+{
+  "_id": {
+    "$oid": "683d2bad8b31e6dd69d71310"
+  },
+  "name": "W3 schools category",
+  "tenant": {
+    "$oid": "681df14f70e40ddec4be2319"
+  },
+  "providerId": {
+    "$oid": "681dfc2170e40ddec4be2c0e"
+  },
+  "createdAt": {
+    "$date": "2025-06-02T04:42:21.098Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T06:02:10.433Z"
+  },
+  "__v": 0,
+  "slug": "w3_schools_category"
+},
+{
+  "_id": {
+    "$oid": "683d568719adb775bb86b496"
+  },
+  "name": "geeks category",
+  "tenant": {
+    "$oid": "681defdcbad26143190de7eb"
+  },
+  "providerId": {
+    "$oid": "681df43570e40ddec4be26f9"
+  },
+  "createdAt": {
+    "$date": "2025-06-02T07:45:11.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T06:02:10.396Z"
+  },
+  "__v": 0,
+  "slug": "geeks_category"
+},
+{
+  "_id": {
+    "$oid": "684830330b40cfae10cda263"
+  },
+  "name": "Primary Audience",
+  "tenant": {
+    "$oid": "6696821b5d1b461f36790061"
+  },
+  "providerId": {
+    "$oid": "681b26f4acf58cef18601535"
+  },
+  "createdAt": {
+    "$date": "2025-06-10T13:16:35.965Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  },
+  "__v": 0,
+  "slug": "primary_audience",
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words."
+},
+{
+  "_id": {
+    "$oid": "684830430b40cfae10cda271"
+  },
+  "name": "Primary Purpose",
+  "tenant": {
+    "$oid": "6696821b5d1b461f36790061"
+  },
+  "providerId": {
+    "$oid": "681b26f4acf58cef18601535"
+  },
+  "createdAt": {
+    "$date": "2025-06-10T13:16:51.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T06:02:09.805Z"
+  },
+  "__v": 0,
+  "slug": "primary_purpose"
+},
+{
+  "_id": {
+    "$oid": "6848304e0b40cfae10cda27f"
+  },
+  "name": "Summary",
+  "tenant": {
+    "$oid": "6696821b5d1b461f36790061"
+  },
+  "providerId": {
+    "$oid": "681b26f4acf58cef18601535"
+  },
+  "createdAt": {
+    "$date": "2025-06-10T13:17:02.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T06:02:09.805Z"
+  },
+  "__v": 0,
+  "slug": "summary"
+},
+{
+  "_id": {
+    "$oid": "6848307c0b40cfae10cda28d"
+  },
+  "name": "Funnnel Stage",
+  "tenant": {
+    "$oid": "6696821b5d1b461f36790061"
+  },
+  "providerId": {
+    "$oid": "681b26f4acf58cef18601535"
+  },
+  "createdAt": {
+    "$date": "2025-06-10T13:17:48.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T06:02:09.805Z"
+  },
+  "__v": 0,
+  "slug": "funnnel_stage"
+},
+{
+  "_id": {
+    "$oid": "684830870b40cfae10cda29b"
+  },
+  "name": "Marketing Funnel Stage",
+  "tenant": {
+    "$oid": "6696821b5d1b461f36790061"
+  },
+  "providerId": {
+    "$oid": "681b26f4acf58cef18601535"
+  },
+  "createdAt": {
+    "$date": "2025-06-10T13:17:59.543Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T06:02:09.805Z"
+  },
+  "__v": 0,
+  "slug": "marketing_funnel_stage"
+},
+{
+  "_id": {
+    "$oid": "6863c538392cc0715234d2ed"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-01T11:23:36.019Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.595Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate."
+},
+{
+  "_id": {
+    "$oid": "6863c538392cc0715234d2ee"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-01T11:23:36.019Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.759Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose."
+},
+{
+  "_id": {
+    "$oid": "6863c538392cc0715234d2ef"
+  },
+  "slug": "primary_audience",
+  "name": "Primary Audience",
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-01T11:23:36.019Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words."
+},
+{
+  "_id": {
+    "$oid": "6863c538392cc0715234d2f0"
+  },
+  "slug": "secondary_audience",
+  "name": "Secondary Audience",
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-01T11:23:36.019Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.825Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience."
+},
+{
+  "_id": {
+    "$oid": "6863c538392cc0715234d2f1"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "685bed421d3cb30a68b11a4f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-01T11:23:36.019Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.862Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific."
+},
+{
+  "_id": {
+    "$oid": "686683879486ec3d80a39191"
+  },
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "686683868fa4f7543cce7bac"
+  },
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T13:20:07.404Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.595Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate."
+},
+{
+  "_id": {
+    "$oid": "686683879486ec3d80a39192"
+  },
+  "slug": "funnel_stage",
+  "name": "Funnel Stage",
+  "tenant": {
+    "$oid": "686683868fa4f7543cce7bac"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T13:20:07.404Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.759Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose."
+},
+{
+  "_id": {
+    "$oid": "686683879486ec3d80a39193"
+  },
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "686683868fa4f7543cce7bac"
+  },
+  "name": "Primary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T13:20:07.404Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words."
+},
+{
+  "_id": {
+    "$oid": "686683879486ec3d80a39194"
+  },
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "686683868fa4f7543cce7bac"
+  },
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T13:20:07.404Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.825Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience."
+},
+{
+  "_id": {
+    "$oid": "686683879486ec3d80a39195"
+  },
+  "slug": "industry",
+  "tenant": {
+    "$oid": "686683868fa4f7543cce7bac"
+  },
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T13:20:07.404Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.862Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific."
+},
+{
+  "_id": {
+    "$oid": "6866b7149486ec3d80a391b2"
+  },
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "6866b7138fa4f7543cce7db3"
+  },
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T17:00:04.620Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.595Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate."
+},
+{
+  "_id": {
+    "$oid": "6866b7149486ec3d80a391b3"
+  },
+  "slug": "funnel_stage",
+  "name": "Funnel Stage",
+  "tenant": {
+    "$oid": "6866b7138fa4f7543cce7db3"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T17:00:04.620Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.759Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose."
+},
+{
+  "_id": {
+    "$oid": "6866b7149486ec3d80a391b4"
+  },
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "6866b7138fa4f7543cce7db3"
+  },
+  "name": "Primary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T17:00:04.620Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words."
+},
+{
+  "_id": {
+    "$oid": "6866b7149486ec3d80a391b5"
+  },
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "6866b7138fa4f7543cce7db3"
+  },
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T17:00:04.620Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.825Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience."
+},
+{
+  "_id": {
+    "$oid": "6866b7149486ec3d80a391b6"
+  },
+  "name": "Industry",
+  "tenant": {
+    "$oid": "6866b7138fa4f7543cce7db3"
+  },
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-03T17:00:04.620Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.862Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific."
+},
+{
+  "_id": {
+    "$oid": "6867767c27516062c45a2d8f"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:36:44.814Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.595Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate."
+},
+{
+  "_id": {
+    "$oid": "6867767c27516062c45a2d91"
+  },
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "slug": "primary_audience",
+  "name": "Primary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:36:44.814Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words."
+},
+{
+  "_id": {
+    "$oid": "6867767c27516062c45a2d90"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:36:44.814Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.759Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose."
+},
+{
+  "_id": {
+    "$oid": "6867767c27516062c45a2d92"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:36:44.814Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.825Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience."
+},
+{
+  "_id": {
+    "$oid": "6867767c27516062c45a2d93"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "6867767b44e14b7fbb5f5ddf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T06:36:44.814Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.862Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific."
+},
+{
+  "_id": {
+    "$oid": "68677e4627516062c45a2dff"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T07:09:58.142Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.595Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate."
+},
+{
+  "_id": {
+    "$oid": "68677e4627516062c45a2e00"
+  },
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "slug": "funnel_stage",
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T07:09:58.142Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.759Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose."
+},
+{
+  "_id": {
+    "$oid": "68677e4627516062c45a2e01"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T07:09:58.142Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words."
+},
+{
+  "_id": {
+    "$oid": "68677e4627516062c45a2e02"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T07:09:58.142Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.825Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience."
+},
+{
+  "_id": {
+    "$oid": "68677e4627516062c45a2e03"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T07:09:58.142Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.862Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific."
+},
+{
+  "_id": {
+    "$oid": "6867adb027516062c45a3712"
+  },
+  "tenant": {
+    "$oid": "6867adafa9af60d2bc328e92"
+  },
+  "slug": "page_type",
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T10:32:16.845Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.595Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate."
+},
+{
+  "_id": {
+    "$oid": "6867adb027516062c45a3713"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "6867adafa9af60d2bc328e92"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T10:32:16.845Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.759Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose."
+},
+{
+  "_id": {
+    "$oid": "6867adb027516062c45a3714"
+  },
+  "tenant": {
+    "$oid": "6867adafa9af60d2bc328e92"
+  },
+  "slug": "primary_audience",
+  "name": "Primary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T10:32:16.845Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words."
+},
+{
+  "_id": {
+    "$oid": "6867adb027516062c45a3715"
+  },
+  "tenant": {
+    "$oid": "6867adafa9af60d2bc328e92"
+  },
+  "slug": "secondary_audience",
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T10:32:16.845Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.825Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience."
+},
+{
+  "_id": {
+    "$oid": "6867adb027516062c45a3716"
+  },
+  "tenant": {
+    "$oid": "6867adafa9af60d2bc328e92"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-04T10:32:16.845Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.862Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific."
+},
+{
+  "_id": {
+    "$oid": "686b6e7d27516062c45aa395"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-07T06:51:41.821Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.595Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate."
+},
+{
+  "_id": {
+    "$oid": "686b6e7d27516062c45aa396"
+  },
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-07T06:51:41.821Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-10T05:42:41.212Z"
+  },
+  "description": "[Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward a decision.\n\n- TOFU (Top of Funnel) = Awareness-stage content that educates or informs, with no direct product promotion. Common formats include blog posts, industry trends, or guides.\n- MOFU (Middle of Funnel) = Consideration-stage content that explores pain points, solutions, or product categories. Often includes case studies, webinars, or how-to resources.\n- BOFU (Bottom of Funnel) = Decision-stage content that directly promotes your product, brand, or offer — such as demos, pricing pages, or vendor comparisons.\n\nUse an existing Funnel Stage if it clearly applies. If the stage is unclear or mixed, lean toward TOFU unless product-related signals (such as capabilities, features, or CTAs) clearly indicate MOFU or BOFU.]"
+},
+{
+  "_id": {
+    "$oid": "686b6e7d27516062c45aa397"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-07T06:51:41.821Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words."
+},
+{
+  "_id": {
+    "$oid": "686b6e7d27516062c45aa398"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-07T06:51:41.821Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.825Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience."
+},
+{
+  "_id": {
+    "$oid": "686b6e7d27516062c45aa399"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "686b6e7da59010eae32d0b5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-07T06:51:41.821Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.862Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific."
+},
+{
+  "_id": {
+    "$oid": "686bb77327516062c45abc2e"
+  },
+  "tenant": {
+    "$oid": "686bb772e7b90ad7106ff5c9"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-07T12:02:59.231Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words."
+},
+{
+  "_id": {
+    "$oid": "686bb77327516062c45abc2f"
+  },
+  "tenant": {
+    "$oid": "686bb772e7b90ad7106ff5c9"
+  },
+  "slug": "secondary_audience",
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-07T12:02:59.231Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.825Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience."
+},
+{
+  "_id": {
+    "$oid": "686bb77327516062c45abc2d"
+  },
+  "tenant": {
+    "$oid": "686bb772e7b90ad7106ff5c9"
+  },
+  "slug": "funnel_stage",
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-07T12:02:59.231Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.759Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose."
+},
+{
+  "_id": {
+    "$oid": "686bb77327516062c45abc2c"
+  },
+  "tenant": {
+    "$oid": "686bb772e7b90ad7106ff5c9"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-07T12:02:59.231Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.595Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate."
+},
+{
+  "_id": {
+    "$oid": "686bb77327516062c45abc30"
+  },
+  "tenant": {
+    "$oid": "686bb772e7b90ad7106ff5c9"
+  },
+  "slug": "industry",
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-07T12:02:59.231Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.862Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific."
+},
+{
+  "_id": {
+    "$oid": "686cef43322ccc76493e29a0"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-08T10:13:23.592Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-01T10:45:02.844Z"
+  },
+  "description": "Page Type: [Choose the correct Page Type based on the page’s structure and role — not its topic or audience.\n\t•\tUse an existing Page Type if one clearly applies.\n\t•\tOnly propose a new Page Type if no suitable match exists.\n\t•\tNew values must be specific, format-based, and concise (1–3 words max).\n\t•\tDo not create stylistic variants or inferred types.\n\t•\tFocus on how the page is structured and what its purpose is (e.g., navigational, informational, promotional).\n\nAllowed format:\nPage Type: [One existing or new type based on page layout/function]\nExamples (do not rephrase): Product Page, Gated Asset Page, Customer Story, Feature Comparison, Landing Page, Use Case Page, Resource Hub]"
+},
+{
+  "_id": {
+    "$oid": "686cef43322ccc76493e29a1"
+  },
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-08T10:13:23.592Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.759Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose."
+},
+{
+  "_id": {
+    "$oid": "686cef43322ccc76493e29a2"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-08T10:13:23.592Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-31T18:01:59.794Z"
+  },
+  "description": "Primary Audience: [Select the Primary Audience based on the intended reader or decision-maker targeted by the content.\n\t•\tUse an existing value if one matches.\n\t•\tOnly propose a new value if no suitable audience exists.\n\t•\tNew values must be concise (1–3 words max) and reflect a specific role, function, or job level — not a company type, persona name, or inferred behavior.\n\t•\tDo not create synonyms or stylistic variants of existing roles (e.g., “Performance Marketer” vs. “Growth Marketer”).\n\t•\tFocus on who would logically read or act on the content.\n\nAllowed format:\nPrimary Audience: [One existing or new role-based label]\nExamples (do not rephrase): Marketing Leader, Demand Gen Manager, CTO, RevOps Lead, Content Strategist]"
+},
+{
+  "_id": {
+    "$oid": "686cef43322ccc76493e29a3"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-08T10:13:23.592Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-31T18:32:42.059Z"
+  },
+  "description": "Secondary Audience: [Only assign a Secondary Audience if it is clearly distinct from the Primary Audience and the content meaningfully targets both.\n\t•\tUse an existing audience value if applicable.\n\t•\tOnly propose a new audience if no suitable value exists and the secondary audience is explicitly addressed.\n\t•\tKeep new values short (1–3 words) and role-specific.\n\t•\tDo not duplicate the Primary Audience, infer weak secondary roles, or add general audience types.\n\t•\tLeave blank if no clearly defined second audience is present.\n\nAllowed format:\nSecondary Audience: [Distinct role or leave blank]\nExamples (do not rephrase): Sales Leader, RevOps Analyst, Leave blank]"
+},
+{
+  "_id": {
+    "$oid": "686cef43322ccc76493e29a4"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "686cef42f50166d11a7a4087"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-08T10:13:23.592Z"
+  },
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-31T18:35:43.547Z"
+  },
+  "description": "Industry: [Assign an Industry only if the content is clearly targeted to a specific sector.\n\t•\tUse an existing industry value if applicable.\n\t•\tOnly propose a new value if no suitable match exists and the industry is explicitly referenced.\n\t•\tKeep new values concise (1–2 words) and specific (e.g., “Healthcare”, “SaaS”, “Manufacturing”).\n\t•\tIf the content is not industry-specific, return General.\n\t•\tDo not infer industry from tone, use case, or general language — rely only on explicit signals.\n\nAllowed format:\nIndustry: [Existing or new value]\nExamples: SaaS, Healthcare, Financial Services, General]"
+},
+{
+  "_id": {
+    "$oid": "686de5d8322ccc76493e2a19"
+  },
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "686de5d8ba52452820186b0c"
+  },
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T03:45:28.807Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.595Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686de5d8322ccc76493e2a1a"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "686de5d8ba52452820186b0c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T03:45:28.807Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.759Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686de5d8322ccc76493e2a1b"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "686de5d8ba52452820186b0c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T03:45:28.807Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686de5d8322ccc76493e2a1c"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "686de5d8ba52452820186b0c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T03:45:28.807Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686de5d8322ccc76493e2a1d"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "686de5d8ba52452820186b0c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T03:45:28.807Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.862Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686df7fb322ccc76493e2a41"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "686df7fa7a6e2256dde8bb70"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T05:02:51.864Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.595Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686df7fb322ccc76493e2a42"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "686df7fa7a6e2256dde8bb70"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T05:02:51.864Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\nUse an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T03:55:34.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686df7fb322ccc76493e2a43"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "686df7fa7a6e2256dde8bb70"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T05:02:51.864Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686df7fb322ccc76493e2a44"
+  },
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "686df7fa7a6e2256dde8bb70"
+  },
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T05:02:51.864Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686df7fb322ccc76493e2a45"
+  },
+  "tenant": {
+    "$oid": "686df7fa7a6e2256dde8bb70"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T05:02:51.864Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T08:44:06.862Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e07197a6e2256dde8c1d8"
+  },
+  "name": "Difficulty level",
+  "slug": "difficulty_level",
+  "description": "This indicates how is difficult to understand for users who's age is around 2y.",
+  "isSystemGenerated": false,
+  "tenant": {
+    "$oid": "686df7fa7a6e2256dde8bb70"
+  },
+  "providerId": null,
+  "createdAt": {
+    "$date": "2025-07-09T06:07:21.718Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T06:33:24.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e2ff6322ccc76493e2d8e"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T09:01:42.629Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T09:01:42.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2ff6322ccc76493e2d8f"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T09:01:42.629Z"
+  },
+  "description": "Funnel Stage: [Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward a decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\nUse an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.]",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-14T09:15:32.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2ff6322ccc76493e2d90"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T09:01:42.629Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T09:01:42.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2ff6322ccc76493e2d91"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T09:01:42.629Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T09:01:42.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e2ff6322ccc76493e2d92"
+  },
+  "slug": "industry",
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-09T09:01:42.629Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-09T09:01:42.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686e47326672145ddc776df7"
+  },
+  "name": "Strategic Focus",
+  "slug": "strategic_focus",
+  "description": "The strategic focus of the content",
+  "isSystemGenerated": false,
+  "tenant": {
+    "$oid": "686e2ff56672145ddc776c09"
+  },
+  "providerId": null,
+  "createdAt": {
+    "$date": "2025-07-09T10:40:50.177Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-09T10:40:50.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6870e7ec322ccc76493e3319"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "6870e7ea943c7d103ca7609b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T10:31:08.935Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-11T10:31:08.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6870e7ec322ccc76493e331a"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "6870e7ea943c7d103ca7609b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T10:31:08.935Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-11T10:31:08.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6870e7ec322ccc76493e331b"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "6870e7ea943c7d103ca7609b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T10:31:08.935Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-11T10:31:08.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6870e7ec322ccc76493e331c"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "6870e7ea943c7d103ca7609b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T10:31:08.935Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-11T10:31:08.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6870e7ec322ccc76493e331d"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "6870e7ea943c7d103ca7609b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T10:31:08.935Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-11T10:31:08.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6870e9a0322ccc76493e332e"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "6870e99e8c1381c16bb93efb"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T10:38:24.335Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-16T05:48:36.465Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6870e9a0322ccc76493e332f"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "6870e99e8c1381c16bb93efb"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T10:38:24.335Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-16T05:48:36.465Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6870e9a0322ccc76493e3330"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "6870e99e8c1381c16bb93efb"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T10:38:24.335Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-16T05:48:36.465Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6870e9a0322ccc76493e3331"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "6870e99e8c1381c16bb93efb"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T10:38:24.335Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-16T05:48:36.465Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6870e9a0322ccc76493e3332"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "6870e99e8c1381c16bb93efb"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-11T10:38:24.335Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-16T05:48:36.465Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3afa677f67a172c63a6"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:22:39.609Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T06:22:39.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3afa677f67a172c63a7"
+  },
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:22:39.609Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T06:22:39.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3afa677f67a172c63a8"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:22:39.609Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T06:22:39.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3afa677f67a172c63aa"
+  },
+  "slug": "industry",
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:22:39.609Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T06:22:39.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6875f3afa677f67a172c63a9"
+  },
+  "tenant": {
+    "$oid": "6875f3afc8337606d54a7f37"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T06:22:39.609Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T06:22:39.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760637a677f67a172c642f"
+  },
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68760637c8337606d54a81df"
+  },
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:41:43.124Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T07:41:43.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760637a677f67a172c6430"
+  },
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "68760637c8337606d54a81df"
+  },
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:41:43.124Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T07:41:43.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760637a677f67a172c6431"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "68760637c8337606d54a81df"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:41:43.124Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T07:41:43.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760637a677f67a172c6433"
+  },
+  "slug": "industry",
+  "tenant": {
+    "$oid": "68760637c8337606d54a81df"
+  },
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:41:43.124Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T07:41:43.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68760637a677f67a172c6432"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "68760637c8337606d54a81df"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T07:41:43.124Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T07:41:43.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761a94a677f67a172c648e"
+  },
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68761a94c8337606d54a839f"
+  },
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:08:36.877Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:08:36.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761a94a677f67a172c648f"
+  },
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "68761a94c8337606d54a839f"
+  },
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:08:36.877Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:08:36.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761a94a677f67a172c6490"
+  },
+  "tenant": {
+    "$oid": "68761a94c8337606d54a839f"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:08:36.877Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:08:36.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761a94a677f67a172c6491"
+  },
+  "tenant": {
+    "$oid": "68761a94c8337606d54a839f"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:08:36.877Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:08:36.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761a94a677f67a172c6492"
+  },
+  "slug": "industry",
+  "tenant": {
+    "$oid": "68761a94c8337606d54a839f"
+  },
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:08:36.877Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:08:36.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761b3ea677f67a172c6494"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68761b3e8d2e60b0b82c294c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:11:26.196Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:11:26.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761b3ea677f67a172c6495"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "68761b3e8d2e60b0b82c294c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:11:26.196Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:11:26.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761b3ea677f67a172c6496"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "68761b3e8d2e60b0b82c294c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:11:26.196Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:11:26.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761b3ea677f67a172c6497"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "68761b3e8d2e60b0b82c294c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:11:26.196Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:11:26.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761b3ea677f67a172c6498"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "68761b3e8d2e60b0b82c294c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:11:26.196Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:11:26.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761c06a677f67a172c649d"
+  },
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68761c06f69f026137190a41"
+  },
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:14:46.470Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:14:46.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761c06a677f67a172c649e"
+  },
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "68761c06f69f026137190a41"
+  },
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:14:46.470Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) if one clearly applies. If the funnel stage is unclear, return the closest match based on content intent and CTA. Do not leave blank unless content has no discernible buyer journey purpose.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:14:46.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761c06a677f67a172c649f"
+  },
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "68761c06f69f026137190a41"
+  },
+  "name": "Primary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:14:46.470Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:14:46.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761c06a677f67a172c64a0"
+  },
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "68761c06f69f026137190a41"
+  },
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:14:46.470Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:14:46.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68761c06a677f67a172c64a1"
+  },
+  "slug": "industry",
+  "tenant": {
+    "$oid": "68761c06f69f026137190a41"
+  },
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-15T09:14:46.470Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-15T09:14:46.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68776d7aa677f67a172d3f0c"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T09:14:34.086Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-16T09:14:34.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68776d7aa677f67a172d3f0a"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T09:14:34.086Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-16T09:14:34.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68776d7aa677f67a172d3f08"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T09:14:34.086Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-16T09:14:34.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68776d7aa677f67a172d3f0b"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T09:14:34.086Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-16T09:14:34.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68776d7aa677f67a172d3f09"
+  },
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-16T09:14:34.086Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-16T09:14:34.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877ba2425a65b611c6dad73"
+  },
+  "name": "New Topic",
+  "slug": "new_topic",
+  "description": "Topic: [Classify the content into the most relevant high-level Topic. Use an existing Topic value if one closely matches. If not, propose a new Topic — but only if it’s clearly distinct, general enough to group similar content, and not a narrow variant of something existing.\n\nExamples of valid Topics: AI Tools, Localisation, E-commerce, Personalisation, ABM, Martech, B2B Sales, Lead Generation.\n\nAvoid hyper-specific variations (e.g., “AI Sales Tools”, “B2B Data Quality”) unless absolutely necessary. Prefer rolling them up under a broader topic (e.g., “AI Tools”, “B2B Data”, “Sales Enablement”) if the content fits.]",
+  "isSystemGenerated": false,
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "providerId": null,
+  "createdAt": {
+    "$date": "2025-07-16T14:41:40.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-16T14:41:40.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6879245cb397fa84b65c7b15"
+  },
+  "name": "Our Topic Category",
+  "slug": "our_topic_category",
+  "description": "Use only one of the existing Topic values from the list below. Do not create new topics. Assign the single most relevant topic based on the content. If the content does not clearly fit any of the topics, return an empty string (\"\").\n\nValid Topics: ABM, AE, B2B marketing, B2B sales, Cadences, Cold calling, Compliance, Content marketing, Demand generation, EU Expansion, Go-to-market, Lead generation, Marketing operations, Operations, Outbound sales, Paid marketing, Playbook, Revenue operations, Sales enablement, Sales operations, SDR, SEO",
+  "isSystemGenerated": false,
+  "tenant": {
+    "$oid": "68776d7925a65b611c6da736"
+  },
+  "providerId": null,
+  "createdAt": {
+    "$date": "2025-07-17T16:27:08.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-17T16:27:08.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687a446ba677f67a172d4be9"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "687a446bb58c95c166f43030"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-18T12:56:11.380Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-18T12:56:11.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687a446ba677f67a172d4bea"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "687a446bb58c95c166f43030"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-18T12:56:11.380Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-18T12:56:11.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687a446ba677f67a172d4beb"
+  },
+  "tenant": {
+    "$oid": "687a446bb58c95c166f43030"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-18T12:56:11.380Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-18T12:56:11.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687a446ba677f67a172d4bec"
+  },
+  "tenant": {
+    "$oid": "687a446bb58c95c166f43030"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-18T12:56:11.380Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-18T12:56:11.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687a446ba677f67a172d4bed"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "687a446bb58c95c166f43030"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-18T12:56:11.380Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-18T12:56:11.380Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bc0fc696056525c5067f"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "6880bc0f25170167028a4c18"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-23T10:40:15.541Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-23T10:40:15.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bc0fc696056525c50680"
+  },
+  "tenant": {
+    "$oid": "6880bc0f25170167028a4c18"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-23T10:40:15.541Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-23T10:40:15.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bc0fc696056525c50681"
+  },
+  "tenant": {
+    "$oid": "6880bc0f25170167028a4c18"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-23T10:40:15.541Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-23T10:40:15.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bc0fc696056525c50682"
+  },
+  "tenant": {
+    "$oid": "6880bc0f25170167028a4c18"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-23T10:40:15.541Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-23T10:40:15.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bc0fc696056525c50683"
+  },
+  "tenant": {
+    "$oid": "6880bc0f25170167028a4c18"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-23T10:40:15.541Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-23T10:40:15.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bfc1c696056525c50685"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "6880bfc125170167028a4c3a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-23T10:56:01.722Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-23T10:56:01.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bfc1c696056525c50686"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "6880bfc125170167028a4c3a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-23T10:56:01.722Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-23T10:56:01.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bfc1c696056525c50687"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "6880bfc125170167028a4c3a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-23T10:56:01.722Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-23T10:56:01.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bfc1c696056525c50688"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "6880bfc125170167028a4c3a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-23T10:56:01.722Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-23T10:56:01.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6880bfc1c696056525c50689"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "6880bfc125170167028a4c3a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-23T10:56:01.722Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-23T10:56:01.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68832bda018858853f0f2870"
+  },
+  "name": "Port Co",
+  "slug": "port_co",
+  "description": "Instruction: Check if the article content references any Haatch Portfolio Company.\nOutput: \"Yes\" or \"No\" only. Do not explain or include additional text.",
+  "isSystemGenerated": false,
+  "tenant": {
+    "$oid": "68677e45c8b1a60130603169"
+  },
+  "providerId": null,
+  "createdAt": {
+    "$date": "2025-07-25T07:01:46.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-25T07:01:46.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68832dfdc696056525c56e67"
+  },
+  "tenant": {
+    "$oid": "68832dfde4f16a57b8700e47"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T07:10:53.085Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T07:10:53.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68832dfdc696056525c56e68"
+  },
+  "tenant": {
+    "$oid": "68832dfde4f16a57b8700e47"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T07:10:53.085Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T07:10:53.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68832dfdc696056525c56e69"
+  },
+  "tenant": {
+    "$oid": "68832dfde4f16a57b8700e47"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T07:10:53.085Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T07:10:53.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68832dfdc696056525c56e6a"
+  },
+  "tenant": {
+    "$oid": "68832dfde4f16a57b8700e47"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T07:10:53.085Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T07:10:53.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68832dfdc696056525c56e6b"
+  },
+  "tenant": {
+    "$oid": "68832dfde4f16a57b8700e47"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T07:10:53.085Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T07:10:53.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833b29c696056525c56e84"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68833b2930eb7fcd7191693b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:07:05.394Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:07:05.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833b29c696056525c56e85"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "68833b2930eb7fcd7191693b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:07:05.394Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:07:05.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833b29c696056525c56e86"
+  },
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "68833b2930eb7fcd7191693b"
+  },
+  "name": "Primary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:07:05.394Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:07:05.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833b29c696056525c56e87"
+  },
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "68833b2930eb7fcd7191693b"
+  },
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:07:05.394Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:07:05.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833b29c696056525c56e88"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "68833b2930eb7fcd7191693b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:07:05.394Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:07:05.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833c03c696056525c56e8e"
+  },
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68833c03e0a3b2b1db07ba5b"
+  },
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:10:43.188Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:10:43.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833c03c696056525c56e8f"
+  },
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "68833c03e0a3b2b1db07ba5b"
+  },
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:10:43.188Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:10:43.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833c03c696056525c56e90"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "68833c03e0a3b2b1db07ba5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:10:43.188Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:10:43.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833c03c696056525c56e91"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "68833c03e0a3b2b1db07ba5b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:10:43.188Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:10:43.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833c03c696056525c56e92"
+  },
+  "slug": "industry",
+  "tenant": {
+    "$oid": "68833c03e0a3b2b1db07ba5b"
+  },
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:10:43.188Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:10:43.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833c5cc696056525c56e94"
+  },
+  "tenant": {
+    "$oid": "68833c5ce0a3b2b1db07ba70"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:12:12.936Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:12:12.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833c5cc696056525c56e95"
+  },
+  "tenant": {
+    "$oid": "68833c5ce0a3b2b1db07ba70"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:12:12.936Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:12:12.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833c5cc696056525c56e96"
+  },
+  "tenant": {
+    "$oid": "68833c5ce0a3b2b1db07ba70"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:12:12.936Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:12:12.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833c5cc696056525c56e97"
+  },
+  "tenant": {
+    "$oid": "68833c5ce0a3b2b1db07ba70"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:12:12.936Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:12:12.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68833c5cc696056525c56e98"
+  },
+  "tenant": {
+    "$oid": "68833c5ce0a3b2b1db07ba70"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:12:12.936Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:12:12.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688341f1c696056525c56e9c"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "688341f1e0a3b2b1db07ba85"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:36:01.352Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:36:01.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688341f1c696056525c56e9d"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "688341f1e0a3b2b1db07ba85"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:36:01.352Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:36:01.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688341f1c696056525c56e9e"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "688341f1e0a3b2b1db07ba85"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:36:01.352Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:36:01.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688341f1c696056525c56e9f"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "688341f1e0a3b2b1db07ba85"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:36:01.352Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:36:01.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688341f1c696056525c56ea0"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "688341f1e0a3b2b1db07ba85"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:36:01.352Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:36:01.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68834253c696056525c56ea1"
+  },
+  "tenant": {
+    "$oid": "68834253e0a3b2b1db07ba9a"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:37:39.588Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:37:39.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68834253c696056525c56ea2"
+  },
+  "tenant": {
+    "$oid": "68834253e0a3b2b1db07ba9a"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:37:39.588Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:37:39.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68834253c696056525c56ea3"
+  },
+  "tenant": {
+    "$oid": "68834253e0a3b2b1db07ba9a"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:37:39.588Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:37:39.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68834253c696056525c56ea4"
+  },
+  "tenant": {
+    "$oid": "68834253e0a3b2b1db07ba9a"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:37:39.588Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:37:39.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68834253c696056525c56ea5"
+  },
+  "tenant": {
+    "$oid": "68834253e0a3b2b1db07ba9a"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:37:39.588Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:37:39.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68834355c696056525c56ea6"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68834355e0a3b2b1db07baaf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:41:57.793Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:41:57.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68834355c696056525c56ea7"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "68834355e0a3b2b1db07baaf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:41:57.793Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:41:57.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68834355c696056525c56ea8"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "68834355e0a3b2b1db07baaf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:41:57.793Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:41:57.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68834355c696056525c56ea9"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "68834355e0a3b2b1db07baaf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:41:57.793Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:41:57.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68834355c696056525c56eaa"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "68834355e0a3b2b1db07baaf"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-25T08:41:57.793Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-25T08:41:57.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68872950c696056525c58438"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68872950556279057c1143a3"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T07:40:00.582Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T07:40:00.582Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68872950c696056525c58439"
+  },
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "68872950556279057c1143a3"
+  },
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T07:40:00.582Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T07:40:00.582Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68872950c696056525c5843a"
+  },
+  "tenant": {
+    "$oid": "68872950556279057c1143a3"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T07:40:00.582Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T07:40:00.582Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68872950c696056525c5843b"
+  },
+  "tenant": {
+    "$oid": "68872950556279057c1143a3"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T07:40:00.582Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T07:40:00.582Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68872950c696056525c5843c"
+  },
+  "slug": "industry",
+  "tenant": {
+    "$oid": "68872950556279057c1143a3"
+  },
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T07:40:00.582Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T07:40:00.582Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68872b3ac696056525c5843d"
+  },
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68872b39556279057c114415"
+  },
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T07:48:09.980Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T07:48:09.980Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68872b3ac696056525c5843e"
+  },
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "68872b39556279057c114415"
+  },
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T07:48:09.980Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T07:48:09.980Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68872b3ac696056525c5843f"
+  },
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "68872b39556279057c114415"
+  },
+  "name": "Primary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T07:48:09.980Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T07:48:09.980Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68872b3ac696056525c58440"
+  },
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "68872b39556279057c114415"
+  },
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T07:48:09.980Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T07:48:09.980Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68872b3ac696056525c58441"
+  },
+  "slug": "industry",
+  "tenant": {
+    "$oid": "68872b39556279057c114415"
+  },
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T07:48:09.980Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T07:48:09.980Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6887423ec696056525c58469"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "6887423e5107bc23610033d6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:26:22.404Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:26:22.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6887423ec696056525c5846a"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "6887423e5107bc23610033d6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:26:22.404Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:26:22.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6887423ec696056525c5846b"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "6887423e5107bc23610033d6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:26:22.404Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:26:22.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6887423ec696056525c5846c"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "6887423e5107bc23610033d6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:26:22.404Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:26:22.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6887423ec696056525c5846d"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "6887423e5107bc23610033d6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:26:22.404Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:26:22.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688744dbc696056525c5846e"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "688744db4d0b4777f0c6bb17"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:37:31.679Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:37:31.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688744dbc696056525c5846f"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "688744db4d0b4777f0c6bb17"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:37:31.679Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:37:31.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688744dbc696056525c58470"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "688744db4d0b4777f0c6bb17"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:37:31.679Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:37:31.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688744dbc696056525c58471"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "688744db4d0b4777f0c6bb17"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:37:31.679Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:37:31.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688744dbc696056525c58472"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "688744db4d0b4777f0c6bb17"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:37:31.679Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:37:31.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68874584c696056525c5847f"
+  },
+  "tenant": {
+    "$oid": "688745845107bc236100341a"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:40:20.551Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:40:20.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68874584c696056525c58480"
+  },
+  "tenant": {
+    "$oid": "688745845107bc236100341a"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:40:20.551Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:40:20.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68874584c696056525c58481"
+  },
+  "tenant": {
+    "$oid": "688745845107bc236100341a"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:40:20.551Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:40:20.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68874584c696056525c58482"
+  },
+  "tenant": {
+    "$oid": "688745845107bc236100341a"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:40:20.551Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:40:20.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68874584c696056525c58483"
+  },
+  "tenant": {
+    "$oid": "688745845107bc236100341a"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T09:40:20.551Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T09:40:20.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68874ebfc696056525c5ac35"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "68874ebf9ff28b93f98088bb"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:19:43.505Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:19:43.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68874ebfc696056525c5ac36"
+  },
+  "tenant": {
+    "$oid": "68874ebf9ff28b93f98088bb"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:19:43.505Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:19:43.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68874ebfc696056525c5ac37"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "68874ebf9ff28b93f98088bb"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:19:43.505Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:19:43.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68874ebfc696056525c5ac38"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "68874ebf9ff28b93f98088bb"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:19:43.505Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:19:43.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68874ebfc696056525c5ac39"
+  },
+  "tenant": {
+    "$oid": "68874ebf9ff28b93f98088bb"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:19:43.505Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:19:43.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68875012c696056525c5ac3a"
+  },
+  "tenant": {
+    "$oid": "688750129ff28b93f980897a"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:25:22.698Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:25:22.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68875012c696056525c5ac3b"
+  },
+  "tenant": {
+    "$oid": "688750129ff28b93f980897a"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:25:22.698Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:25:22.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68875012c696056525c5ac3c"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "688750129ff28b93f980897a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:25:22.698Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:25:22.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68875012c696056525c5ac3d"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "688750129ff28b93f980897a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:25:22.698Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:25:22.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68875012c696056525c5ac3e"
+  },
+  "tenant": {
+    "$oid": "688750129ff28b93f980897a"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:25:22.698Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:25:22.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6887514fc696056525c5b05b"
+  },
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "6887514e9ff28b93f98089e7"
+  },
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:30:39.242Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:30:39.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6887514fc696056525c5b05c"
+  },
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "6887514e9ff28b93f98089e7"
+  },
+  "name": "Funnel Stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:30:39.242Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:30:39.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6887514fc696056525c5b05d"
+  },
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "6887514e9ff28b93f98089e7"
+  },
+  "name": "Primary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:30:39.242Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:30:39.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6887514fc696056525c5b05e"
+  },
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "6887514e9ff28b93f98089e7"
+  },
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:30:39.242Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:30:39.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6887514fc696056525c5b05f"
+  },
+  "slug": "industry",
+  "tenant": {
+    "$oid": "6887514e9ff28b93f98089e7"
+  },
+  "name": "Industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-28T10:30:39.242Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-28T10:30:39.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688bb586c696056525c6c173"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "688bb5860f88f5be38d3dec4"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-31T18:27:18.333Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-31T18:27:18.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688bb586c696056525c6c174"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "tenant": {
+    "$oid": "688bb5860f88f5be38d3dec4"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-31T18:27:18.333Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-31T18:27:18.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688bb586c696056525c6c175"
+  },
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "688bb5860f88f5be38d3dec4"
+  },
+  "name": "Primary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-31T18:27:18.333Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-31T18:27:18.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688bb586c696056525c6c176"
+  },
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "688bb5860f88f5be38d3dec4"
+  },
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-31T18:27:18.333Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-31T18:27:18.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688bb586c696056525c6c177"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "tenant": {
+    "$oid": "688bb5860f88f5be38d3dec4"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-31T18:27:18.333Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-07-31T18:27:18.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688c5313b466f3111fd5f22c"
+  },
+  "name": "stack category 2",
+  "slug": "stack_category_2",
+  "description": "Provide one word depending upon the content , whose profession in related to it most.",
+  "isSystemGenerated": false,
+  "tenant": {
+    "$oid": "68136d41b8c267a74ecb3213"
+  },
+  "providerId": {
+    "$oid": "68136e31b8c267a74ecb32da"
+  },
+  "createdAt": {
+    "$date": "2025-08-01T05:39:31.745Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-01T05:39:31.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68904d38c696056525c6c763"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "name": "Page Type",
+  "slug": "page_type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-04T06:03:36.443Z"
+  },
+  "description": "Use an existing Page Type value if applicable; otherwise propose a new, specific Page Type that reflects the structure or role of the page — e.g., Product Page, Resource Hub, Customer Story, Feature Comparison. Be concise and accurate.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-04T06:03:36.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68904d38c696056525c6c764"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "name": "Funnel Stage",
+  "slug": "funnel_stage",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-04T06:03:36.443Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision. \n    - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n    - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n    - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n    Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-04T06:03:36.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68904d38c696056525c6c765"
+  },
+  "name": "Primary Audience",
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-04T06:03:36.443Z"
+  },
+  "description": "Choose from existing audience values if a clear match exists. The audience should reflect the intended reader (e.g., Marketing Leader, Demand Gen Manager, CTO). Propose a new value only if no existing audience applies, and use no more than 3 words.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-04T06:03:36.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68904d38c696056525c6c766"
+  },
+  "name": "Secondary Audience",
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-04T06:03:36.443Z"
+  },
+  "description": "Include only if clearly distinct from the Primary Audience. Use an existing value if available; otherwise, propose a short, specific audience name. Leave blank if there is no second audience.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-04T06:03:36.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68904d38c696056525c6c767"
+  },
+  "tenant": {
+    "$oid": "68904d382a83f5d77df99216"
+  },
+  "name": "Industry",
+  "slug": "industry",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-04T06:03:36.443Z"
+  },
+  "description": "Use an existing Industry value if the content is clearly targeted. If no clear match exists, propose a short, specific Industry 1-2 words. Return \"General\" if the content is not industry-specific.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-04T06:03:36.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6891bd96d13b894a352695dc"
+  },
+  "name": "w3 category",
+  "slug": "w3_category",
+  "description": "Testing category for w3 schools",
+  "isSystemGenerated": false,
+  "tenant": {
+    "$oid": "681df14f70e40ddec4be2319"
+  },
+  "providerId": {
+    "$oid": "681dfc2170e40ddec4be2c0e"
+  },
+  "createdAt": {
+    "$date": "2025-08-05T08:15:18.033Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T08:15:18.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6894784a1024975d432cc909"
+  },
+  "name": "Batchleads Page Type",
+  "slug": "batchleads_page_type",
+  "description": "Choose the correct Page Type based on the page’s structure and role — not its topic or audience.\n\t•\tUse an existing Page Type if one clearly applies.\n\t•\tOnly propose a new Page Type if no suitable match exists.\n\t•\tNew values must be specific, format-based, and concise (1–3 words max).\n\t•\tDo not create stylistic variants or inferred types.\n\t•\tFocus on how the page is structured and what its purpose is (e.g., navigational, informational, promotional).\n\n  Allowed format:\n  Page Type: [One existing or new type based on page layout/function]\n  Examples (do not rephrase): Product Page, Resource Hub, Customer Story, Feature Comparison, Landing Page, Use Case Page",
+  "isSystemGenerated": false,
+  "tenant": {
+    "$oid": "6810971d4824772abbf5b3a3"
+  },
+  "providerId": {
+    "$oid": "68109c344824772abbf5b437"
+  },
+  "createdAt": {
+    "$date": "2025-08-07T09:56:26.294Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-07T09:56:26.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6899d0a2f389a4f7259d5483"
+  },
+  "slug": "page_type",
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "name": "Page Type",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T11:14:42.459Z"
+  },
+  "description": "Choose the correct Page Type based on the page’s structure and role — not its topic or audience.\n\t•\tUse an existing Page Type if one clearly applies.\n\t•\tOnly propose a new Page Type if no suitable match exists.\n\t•\tNew values must be specific, format-based, and concise (1–3 words max).\n\t•\tDo not create stylistic variants or inferred types.\n\t•\tFocus on how the page is structured and what its purpose is (e.g., navigational, informational, promotional).\n\n  Allowed format:\n  Page Type: [One existing or new type based on page layout/function]\n  Examples (do not rephrase): Product Page, Resource Hub, Customer Story, Feature Comparison, Landing Page, Use Case Page",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-11T11:14:42.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d0a2f389a4f7259d5484"
+  },
+  "slug": "funnel_stage",
+  "name": "Funnel Stage",
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T11:14:42.459Z"
+  },
+  "description": "Select from the existing Funnel Stage values (e.g., TOFU, MOFU, BOFU) based on the role the content plays in moving the buyer toward decision.\n  - TOFU (Top of Funnel) = Educational, awareness-stage content with no direct product promotion (e.g., blog posts, guides, trends).\n  - MOFU (Middle of Funnel) = Content that explores solutions or pain points, often mentioning product categories or capabilities (e.g., comparison guides, case studies, webinars).\n  - BOFU (Bottom of Funnel) = Decision-stage content directly tied to your product, brand, or offer (e.g., demos, pricing, sales enablement).\n\n  Use an existing Funnel Stage if it clearly applies. If uncertain, favor TOFU unless the content clearly signals a deeper funnel stage through intent or CTA.",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-11T11:14:42.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d0a2f389a4f7259d5485"
+  },
+  "slug": "primary_audience",
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "name": "Primary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T11:14:42.459Z"
+  },
+  "description": "Select the Primary Audience based on the intended reader or decision-maker targeted by the content.\n\t•\tUse an existing value if one matches.\n\t•\tOnly propose a new value if no suitable audience exists.\n\t•\tNew values must be concise (1–3 words max) and reflect a specific role, function, or job level — not a company type, persona name, or inferred behavior.\n\t•\tDo not create synonyms or stylistic variants of existing roles (e.g., “Performance Marketer” vs. “Growth Marketer”).\n\t•\tFocus on who would logically read or act on the content.\n\n  Allowed format:\n  Primary Audience: [One existing or new role-based label]\n  Examples (do not rephrase): Marketing Leader, Demand Gen Manager, CTO, RevOps Lead, Content Strategist",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-11T11:14:42.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d0a2f389a4f7259d5486"
+  },
+  "slug": "secondary_audience",
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "name": "Secondary Audience",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T11:14:42.459Z"
+  },
+  "description": "Only assign a Secondary Audience if it is clearly distinct from the Primary Audience and the content meaningfully targets both.\n\t•\tUse an existing audience value if applicable.\n\t•\tOnly propose a new audience if no suitable value exists and the secondary audience is explicitly addressed.\n\t•\tKeep new values short (1–3 words) and role-specific.\n\t•\tDo not duplicate the Primary Audience, infer weak secondary roles, or add general audience types.\n\t•\treturn “” if no clearly defined second audience is present.\n\n  Allowed format:\n  Secondary Audience: [Distinct role or “”]\n  Examples (do not rephrase): Sales Leader, RevOps Analyst, CMO, “”",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-11T11:14:42.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6899d0a2f389a4f7259d5487"
+  },
+  "slug": "industry",
+  "name": "Industry",
+  "tenant": {
+    "$oid": "6878e2d47decded2a1a139af"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-08-11T11:14:42.459Z"
+  },
+  "description": "Assign an Industry only if the content is clearly targeted to a specific sector.\n\t•\tUse an existing industry value if applicable.\n\t•\tOnly propose a new value if no suitable match exists and the industry is explicitly referenced.\n\t•\tKeep new values concise (1–2 words) and specific (e.g., “Healthcare”, “SaaS”, “Manufacturing”).\n\t•\tIf the content is not industry-specific, return General.\n\t•\tDo not infer industry from tone, use case, or general language — rely only on explicit signals.\n\n  Allowed format:\n  Industry: [Existing or new value]\n  Examples: SaaS, Healthcare, Financial Services, General",
+  "isSystemGenerated": true,
+  "updatedAt": {
+    "$date": "2025-08-11T11:14:42.459Z"
+  }
+}]
