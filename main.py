@@ -1,15 +1,13 @@
+from bson import ObjectId
 from app.services.query_parser import parse_query
-from app.services.retrieval_service import build_structured_match
 
+TENANT_ID = ObjectId("6875f3afc8337606d54a7f37")
 
-q = "Show me BOFU content for Financial Services"
-parsed = parse_query(q)
-print(parsed)
-match_stage = build_structured_match(parsed["filters"])
+q1 = "Show me all content for Individual Investors in Healthcare"
+q2 = "What funnel stages do we have the least content for?"
 
-print(match_stage)
+print(parse_query(q1, tenant_id=TENANT_ID))
+# {'classification': 'structured', 'filters': {'Primary Audience': ['Individual Investors'], 'Industry': ['Healthcare']}}
 
-
-# q3 = "Show me BOFU content for Financial Services"
-# print(parse_query(q3))
-# # {'classification': 'structured', 'filters': {'funnel_stage': 'BOFU', 'industry': 'Financial Services'}}
+print(parse_query(q2, tenant_id=TENANT_ID))
+# {'classification': 'advisory', 'filters': {}}
