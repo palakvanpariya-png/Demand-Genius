@@ -56,3 +56,5 @@ if __name__ == "__main__":
     print("📂 Tenant Categories:")
     for field, values in categories.items():
         print(f"- {field} ({len(values)} unique): {values}")
+
+
