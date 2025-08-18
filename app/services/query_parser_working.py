@@ -245,4 +245,6 @@ if __name__ == "__main__":
     'Show me Blog content that would help a business choose the best B2B data provider']
     for query in queries:
         result = parse_query_with_tools(query)
+        print("---------------------------")
         print(json.dumps(result, indent=2))
+        print("---------------------------")
