@@ -28,11 +28,21 @@ synonyms_map = {
 }
 
 # ----------------------------
-# Build OpenAI Tools Schema
+# Build OpenAI Tools Schema (Tenant-Aware)
 # ----------------------------
 def build_tools_schema(categories):
+    """
+    Build a JSON schema for OpenAI tools that strictly enforces
+    tenant-specific categories and their allowed values.
+    """
     filters_properties = {
-        cat: {"type": "array", "items": {"type": "string"}} 
+        cat: {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "enum": categories[cat]  # <-- enforce allowed values
+            }
+        }
         for cat in categories.keys()
     }
 
@@ -41,13 +51,13 @@ def build_tools_schema(categories):
             "type": "function",
             "function": {
                 "name": "parse_query",
-                "description": "Classify query and extract filters/constraints from user query",
+                "description": "Classify query and extract tenant-specific filters/constraints from user query",
                 "parameters": {
                     "type": "object",
                     "properties": {
                         "classification": {
                             "type": "string",
-                            "enum": ["structured", "advisory"]
+                            "enum": ["structured", "advisory", "analytical", "exploratory"]
                         },
                         "filters": {
                             "type": "object",
@@ -60,18 +70,21 @@ def build_tools_schema(categories):
                                 "temporal": {
                                     "type": "object",
                                     "properties": {
-                                        "type": {"type": "string", "enum": ["before", "after"]},
-                                        "value": {"type": "string", "format": "date"}
+                                        "type": {"type": "string", "enum": ["before", "after", "range", "relative"]},
+                                        "start_date": {"type": "string"},
+                                        "end_date": {"type": "string"},
+                                        "relative_period": {"type": "string"}
                                     }
                                 },
-                                "gated": {"type": "boolean"}
+                                "gated": {"type": "boolean"},
+                                "limit": {"type": "integer"},
+                                "sort_by": {"type": "string"}
                             }
                         },
                         "quoted_entities": {
                             "type": "array",
                             "items": {"type": "string"}
                         },
-                        # NEW FIELDS
                         "user_intent": {
                             "type": "string",
                             "description": "High-level user intent behind the query",
@@ -81,7 +94,9 @@ def build_tools_schema(categories):
                                 "compare", 
                                 "summarize", 
                                 "count", 
-                                "analyze"
+                                "analyze",
+                                "trend_analysis",
+                                "performance_review"
                             ]
                         },
                         "operation_type": {
@@ -92,8 +107,20 @@ def build_tools_schema(categories):
                                 "aggregate", 
                                 "analyze", 
                                 "rank", 
-                                "drilldown"
+                                "drilldown",
+                                "compare",
+                                "summarize",
+                                "count"
                             ]
+                        },
+                        "aggregation_requested": {
+                            "type": "boolean",
+                            "description": "Whether query requests data aggregation"
+                        },
+                        "comparison_entities": {
+                            "type": "array",
+                            "items": {"type": "string"},
+                            "description": "Entities to compare if comparison is requested"
                         }
                     },
                     "required": [
@@ -102,13 +129,15 @@ def build_tools_schema(categories):
                         "constraints", 
                         "quoted_entities",
                         "user_intent",
-                        "operation_type"
+                        "operation_type",
+                        "aggregation_requested"
                     ]
                 }
             }
         }
     ]
     return schema
+
 
 # ----------------------------
 # Utility
@@ -118,7 +147,6 @@ def normalize_filters(filters: dict) -> dict:
     if not filters:
         return {}
     return {cat: (vals or []) for cat, vals in filters.items()}
-
 
 # ----------------------------
 # Fuzzy & Synonym Mapping
@@ -208,12 +236,13 @@ def parse_query_with_tools(query_text):
 # Example Run
 # ----------------------------
 if __name__ == "__main__":
-    # query = 'Show me all assets tagged "Marketing" and "Blog Post" in German targeting marketing personas'
-    # query = 'List all MOFU pages created after January 1st, 2025'
-    # query = 'What funnel stages do we have the least content for?'
-    # query = 'What are the most common tags used across our directory?'
-    # query = 'Show me TOFU content tagged ‘AI Tools’'
-    # query = 'Show me Blog content that would help a business choose the best B2B data provider'
-    query = 'Are we overly focused on TOFU content?'
-    result = parse_query_with_tools(query)
-    print(json.dumps(result, indent=2))
+    queries = [
+    'Show me all assets tagged "Marketing" and "Blog Post" in German targeting marketing personas',
+    'List all MOFU pages created after January 1st, 2025',
+    'What funnel stages do we have the least content for?',
+    'What are the most common tags used across our directory?',
+    'Show me TOFU content tagged ‘AI Tools’',
+    'Show me Blog content that would help a business choose the best B2B data provider']
+    for query in queries:
+        result = parse_query_with_tools(query)
+        print(json.dumps(result, indent=2))
