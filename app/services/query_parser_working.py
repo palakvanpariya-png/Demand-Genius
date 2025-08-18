@@ -3,6 +3,8 @@ import json
 from openai import OpenAI
 from rapidfuzz import process, fuzz
 from dotenv import load_dotenv
+from rapidfuzz import fuzz
+from category_extracter import extract_categorical_fields
 
 load_dotenv()
 
@@ -11,15 +13,14 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Example tenant categories (this should come from Mongo in production)
-tenant_categories = {
-    "Tags": ["Marketing", "Blog Post", "Demand Generation"],
-    "Page Type": ["Webinar", "Blog", "Case Study"],
-    "Primary Audience": ["Revenue Teams", "Marketing Personas", "Women of Color"],
-    "Language": ["English", "German", "French"],
-    "Funnel Stage": ["TOFU", "MOFU", "BOFU"]
-}
-
-# Optional synonyms mapping for fuzzy matching
+# tenant_categories = {
+#     "Tags": ["Marketing", "Blog Post", "Demand Generation"],
+#     "Page Type": ["Webinar", "Blog", "Case Study"],
+#     "Primary Audience": ["Revenue Teams", "Marketing Personas", "Women of Color"],
+#     "Language": ["English", "German", "French"],
+#     "Funnel Stage": ["TOFU", "MOFU", "BOFU"]
+# }
+tenant_categories = extract_categorical_fields()# Optional synonyms mapping for fuzzy matching
 synonyms_map = {
     "marketing personas": ("Primary Audience", "Marketing Personas"),
     "revenue teams": ("Primary Audience", "Revenue Teams"),
@@ -69,9 +70,40 @@ def build_tools_schema(categories):
                         "quoted_entities": {
                             "type": "array",
                             "items": {"type": "string"}
+                        },
+                        # NEW FIELDS
+                        "user_intent": {
+                            "type": "string",
+                            "description": "High-level user intent behind the query",
+                            "enum": [
+                                "explore", 
+                                "retrieve", 
+                                "compare", 
+                                "summarize", 
+                                "count", 
+                                "analyze"
+                            ]
+                        },
+                        "operation_type": {
+                            "type": "string",
+                            "description": "Specific operation requested",
+                            "enum": [
+                                "list", 
+                                "aggregate", 
+                                "analyze", 
+                                "rank", 
+                                "drilldown"
+                            ]
                         }
                     },
-                    "required": ["classification", "filters", "constraints", "quoted_entities"]
+                    "required": [
+                        "classification", 
+                        "filters", 
+                        "constraints", 
+                        "quoted_entities",
+                        "user_intent",
+                        "operation_type"
+                    ]
                 }
             }
         }
@@ -79,10 +111,21 @@ def build_tools_schema(categories):
     return schema
 
 # ----------------------------
+# Utility
+# ----------------------------
+def normalize_filters(filters: dict) -> dict:
+    """Ensure every filter value is always a list (never None)."""
+    if not filters:
+        return {}
+    return {cat: (vals or []) for cat, vals in filters.items()}
+
+
+# ----------------------------
 # Fuzzy & Synonym Mapping
 # ----------------------------
 def post_process_results(parsed_data, categories):
-    filters = parsed_data.get("filters", {})
+    # normalize filters early
+    filters = normalize_filters(parsed_data.get("filters", {}))
     quoted_entities = parsed_data.get("quoted_entities", [])
 
     # 1. Map quoted entities directly to categories if exact match
@@ -97,14 +140,36 @@ def post_process_results(parsed_data, categories):
             filters.setdefault(cat, []).append(mapped_value)
 
     # 3. Apply fuzzy matching for unquoted natural language terms
-    for cat, values in categories.items():
-        for word in parsed_data.get("query_text", "").split():
-            match, score, _ = process.extractOne(word, values, scorer=fuzz.partial_ratio)
-            if score >= 90:  # threshold
-                filters.setdefault(cat, []).append(match)
+    filters = apply_synonyms_map(
+        query_text=parsed_data.get("query_text", ""),
+        filters=filters,
+        categories=categories,
+        synonyms_map=synonyms_map
+    )
 
-    parsed_data["filters"] = filters
+    parsed_data["filters"] = normalize_filters(filters)
     return parsed_data
+
+
+def apply_synonyms_map(query_text: str, filters: dict, categories: dict, synonyms_map: dict, threshold: int = 85) -> dict:
+    query_lower = query_text.lower()
+    filters = normalize_filters(filters)
+
+    for phrase, (cat, mapped_values) in synonyms_map.items():
+        phrase_lower = phrase.lower()
+        score = fuzz.partial_ratio(phrase_lower, query_lower)
+
+        if score >= threshold:
+            for val in mapped_values:
+                if val in categories.get(cat, []):  # only allow valid category values
+                    filters.setdefault(cat, []).append(val)
+
+    # Deduplicate values for each category safely
+    for cat in filters:
+        filters[cat] = list(set(filters[cat]))
+
+    return filters
+
 
 
 # ----------------------------
@@ -146,7 +211,9 @@ if __name__ == "__main__":
     # query = 'Show me all assets tagged "Marketing" and "Blog Post" in German targeting marketing personas'
     # query = 'List all MOFU pages created after January 1st, 2025'
     # query = 'What funnel stages do we have the least content for?'
-    # query = ' What are the most common tags used across our directory? '
-    query = 'Show me Blog content that would help a business choose the best B2B data provider'
+    # query = 'What are the most common tags used across our directory?'
+    # query = 'Show me TOFU content tagged ‘AI Tools’'
+    # query = 'Show me Blog content that would help a business choose the best B2B data provider'
+    query = 'Are we overly focused on TOFU content?'
     result = parse_query_with_tools(query)
     print(json.dumps(result, indent=2))

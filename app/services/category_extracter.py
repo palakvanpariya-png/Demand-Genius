@@ -16,6 +16,7 @@ def extract_categorical_fields():
     """
     Extract all categorical fields for a tenant by mapping categoryAttribute IDs
     in sitemaps to readable {category_name: attribute_name}.
+    Also include geoFocus as a Language category.
     """
     client = MongoClient(MONGO_URI)
     db = client[DB_NAME]
@@ -37,11 +38,17 @@ def extract_categorical_fields():
     # Loop over sitemaps
     value_sets = defaultdict(set)
     for doc in db[SITEMAPS_COLLECTION].find({"tenant": TENANT_ID}):
+        # Handle categoryAttribute-based values
         attr_ids = doc.get("categoryAttribute", [])
         for attr_id in attr_ids:
             attr_info = category_attrs.get(str(attr_id))
             if attr_info:
                 value_sets[attr_info["category_name"]].add(attr_info["attribute_name"])
+
+        # Handle geoFocus → Language
+        geo_focus = doc.get("geoFocus")
+        if geo_focus:
+            value_sets["Language"].add(geo_focus)
 
     client.close()
 
@@ -56,5 +63,3 @@ if __name__ == "__main__":
     print("📂 Tenant Categories:")
     for field, values in categories.items():
         print(f"- {field} ({len(values)} unique): {values}")
-
-
