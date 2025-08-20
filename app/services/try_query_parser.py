@@ -103,7 +103,7 @@ def intelligent_fuzzy_matching(query_text, categories, threshold=80):
 # ----------------------------
 # Enhanced Tools Schema with Strategic Classification
 # ----------------------------
-def build_enhanced_tools_schema(categories):
+def build_schema(categories):
     """Enhanced schema with better classification and database mapping info"""
     
     filters_properties = {
@@ -296,32 +296,6 @@ def enhanced_post_processing(parsed_data, categories):
     return parsed_data
 
 
-# def estimate_query_complexity(parsed_data, database_info):
-#     """Estimate query complexity for optimization hints"""
-#     complexity_score = 0
-    
-#     # Add points for joins
-#     complexity_score += len(database_info["required_joins"]) * 2
-    
-#     # Add points for aggregation
-#     if parsed_data.get("aggregation_requested"):
-#         complexity_score += 3
-    
-#     # Add points for temporal constraints
-#     if parsed_data.get("constraints", {}).get("temporal"):
-#         complexity_score += 1
-    
-#     # Add points for multiple filters
-#     active_filters = sum(1 for f in parsed_data.get("filters", {}).values() if f)
-#     complexity_score += active_filters
-    
-#     if complexity_score <= 3:
-#         return "low"
-#     elif complexity_score <= 7:
-#         return "medium"
-#     else:
-#         return "high"
-
 # ----------------------------
 # Utility Functions
 # ----------------------------
@@ -337,7 +311,7 @@ def normalize_filters(filters: dict) -> dict:
 def parse_query_with_enhanced_tools(query_text):
     """Enhanced query parser with better database integration"""
     
-    tools_schema = build_enhanced_tools_schema(tenant_categories)
+    tools_schema = build_schema(tenant_categories)
     
     system_message = """You are an advanced query parser for a content analytics system. 
 
@@ -378,22 +352,23 @@ Only use the provided category values. Be precise in classification."""
 # ----------------------------
 # Example Usage
 # ----------------------------
-# if __name__ == "__main__":
-#     test_queries = [
-#         # 'Show me all assets tagged "Marketing" and "Blog Post" in German targeting marketing personas',
-#         # 'List all MOFU pages created after January 1st, 2025', 
-#         # 'What funnel stages do we have the least content for?',
-#         # 'Are we overly focused on TOFU content?',
-#         # 'Which personas have little or no BOFU content?',
-#         'Show me TOFU content',
-#         # 'Suggest improvements to our content categorization',
-#         # 'What content topics seem overused or repetitive? '
-#     ]
+if __name__ == "__main__":
+    test_queries = [
+        # 'Show me all assets tagged "Marketing" and "Blog Post" in German targeting marketing personas',
+        # 'List all MOFU pages created after January 1st, 2025', 
+        # 'What funnel stages do we have the least content for?',
+        # 'Are we overly focused on TOFU content?',
+        'Which personas have little or no BOFU content?',
+        'Show me TOFU content',
+        'which content would benefit investers'
+        # 'Suggest improvements to our content categorization',
+        # 'What content topics seem overused or repetitive? '
+    ]
     
-#     for query in test_queries:
-#         print(f"\n{'='*60}")
-#         print(f"Query: {query}")
-#         print('='*60)
+    for query in test_queries:
+        print(f"\n{'='*60}")
+        print(f"Query: {query}")
+        print('='*60)
         
-#         result = parse_query_with_enhanced_tools(query)
-#         print(json.dumps(result, indent=2))
+        result = parse_query_with_enhanced_tools(query)
+        print(json.dumps(result, indent=2))
