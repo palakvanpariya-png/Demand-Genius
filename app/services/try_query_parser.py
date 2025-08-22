@@ -4,6 +4,7 @@ from openai import OpenAI
 from rapidfuzz import process, fuzz
 from dotenv import load_dotenv
 from category_extracter import extract_categorical_fields
+from database_schema import DynamicTenantSchemaExtractor
 
 load_dotenv()
 
@@ -169,7 +170,7 @@ def build_schema(categories):
                             "type": "string", 
                             "enum": [
                                 "list", "aggregate", "analyze", "rank", "drilldown",
-                                "compare", "summarize", "count", "identify_gaps", "balance_check"
+                                "compare", "summarize", "count", "identify_gaps"
                             ]
                         },
                         "aggregation_requested": {"type": "boolean"},
@@ -354,15 +355,15 @@ Only use the provided category values. Be precise in classification."""
 # ----------------------------
 if __name__ == "__main__":
     test_queries = [
-        # 'Show me all assets tagged "Marketing" and "Blog Post" in German targeting marketing personas',
-        # 'List all MOFU pages created after January 1st, 2025', 
-        # 'What funnel stages do we have the least content for?',
-        # 'Are we overly focused on TOFU content?',
+        'Show me all assets tagged "Marketing" and "Blog Post" in German targeting marketing personas',
+        'List all MOFU pages created after January 1st, 2025', 
+        'What funnel stages do we have the least content for?',
+        'Are we overly focused on TOFU content?',
         'Which personas have little or no BOFU content?',
         'Show me TOFU content',
         'which content would benefit investers'
-        # 'Suggest improvements to our content categorization',
-        # 'What content topics seem overused or repetitive? '
+        'Suggest improvements to our content categorization',
+        'What content topics seem overused or repetitive? '
     ]
     
     for query in test_queries:
